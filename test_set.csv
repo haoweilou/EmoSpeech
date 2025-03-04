@@ -1,0 +1,1001 @@
+file_name,text,emotion,speaker,file_path
+0001_000565,拜拜，明天要再来和小可爱聊天。,angry,1,C:/Emotion Speech Dataset/0001/Angry/0001_000565.wav
+0001_000472,汤姆是个好人，但却赌博成瘾，,angry,1,C:/Emotion Speech Dataset/0001/Angry/0001_000472.wav
+0001_000700,是很难听的脏话，主人可别学了。,angry,1,C:/Emotion Speech Dataset/0001/Angry/0001_000700.wav
+0001_000371,已经播至该专辑最后一个声音。,angry,1,C:/Emotion Speech Dataset/0001/Angry/0001_000371.wav
+0001_000539,我是一名教师，你可是好眼光。,angry,1,C:/Emotion Speech Dataset/0001/Angry/0001_000539.wav
+0001_000422,资料全都不见了。气死我了。,angry,1,C:/Emotion Speech Dataset/0001/Angry/0001_000422.wav
+0001_000457,我的表两点四十二。可是它有点快。,angry,1,C:/Emotion Speech Dataset/0001/Angry/0001_000457.wav
+0001_000621,很大，令人兴奋但是嘈杂。,angry,1,C:/Emotion Speech Dataset/0001/Angry/0001_000621.wav
+0001_000699,是的，真是名副其实。,angry,1,C:/Emotion Speech Dataset/0001/Angry/0001_000699.wav
+0001_000453,感觉好温暖呀，好的，一会儿见。,angry,1,C:/Emotion Speech Dataset/0001/Angry/0001_000453.wav
+0001_000915,拜拜，明天要再来和小可爱聊天。,happy,1,C:/Emotion Speech Dataset/0001/Happy/0001_000915.wav
+0001_000822,汤姆是个好人，但却赌博成瘾，,happy,1,C:/Emotion Speech Dataset/0001/Happy/0001_000822.wav
+0001_001050,是很难听的脏话，主人可别学了。,happy,1,C:/Emotion Speech Dataset/0001/Happy/0001_001050.wav
+0001_000721,已经播至该专辑最后一个声音。,happy,1,C:/Emotion Speech Dataset/0001/Happy/0001_000721.wav
+0001_000889,我是一名教师，你可是好眼光。,happy,1,C:/Emotion Speech Dataset/0001/Happy/0001_000889.wav
+0001_000772,资料全都不见了。气死我了。,happy,1,C:/Emotion Speech Dataset/0001/Happy/0001_000772.wav
+0001_000807,我的表两点四十二。可是它有点快。,happy,1,C:/Emotion Speech Dataset/0001/Happy/0001_000807.wav
+0001_000971,很大，令人兴奋但是嘈杂。,happy,1,C:/Emotion Speech Dataset/0001/Happy/0001_000971.wav
+0001_001049,是的，真是名副其实。,happy,1,C:/Emotion Speech Dataset/0001/Happy/0001_001049.wav
+0001_000803,感觉好温暖呀，好的，一会儿见。,happy,1,C:/Emotion Speech Dataset/0001/Happy/0001_000803.wav
+0001_000215,拜拜，明天要再来和小可爱聊天。,neutral,1,C:/Emotion Speech Dataset/0001/Neutral/0001_000215.wav
+0001_000122,汤姆是个好人，但却赌博成瘾，,neutral,1,C:/Emotion Speech Dataset/0001/Neutral/0001_000122.wav
+0001_000350,是很难听的脏话，主人可别学了。,neutral,1,C:/Emotion Speech Dataset/0001/Neutral/0001_000350.wav
+0001_000021,已经播至该专辑最后一个声音。,neutral,1,C:/Emotion Speech Dataset/0001/Neutral/0001_000021.wav
+0001_000189,我是一名教师，你可是好眼光。,neutral,1,C:/Emotion Speech Dataset/0001/Neutral/0001_000189.wav
+0001_000072,资料全都不见了。气死我了。,neutral,1,C:/Emotion Speech Dataset/0001/Neutral/0001_000072.wav
+0001_000107,我的表两点四十二。可是它有点快。,neutral,1,C:/Emotion Speech Dataset/0001/Neutral/0001_000107.wav
+0001_000271,很大，令人兴奋但是嘈杂。,neutral,1,C:/Emotion Speech Dataset/0001/Neutral/0001_000271.wav
+0001_000349,是的，真是名副其实。,neutral,1,C:/Emotion Speech Dataset/0001/Neutral/0001_000349.wav
+0001_000103,感觉好温暖呀，好的，一会儿见。,neutral,1,C:/Emotion Speech Dataset/0001/Neutral/0001_000103.wav
+0001_001265,拜拜，明天要再来和小可爱聊天。,sad,1,C:/Emotion Speech Dataset/0001/Sad/0001_001265.wav
+0001_001172,汤姆是个好人，但却赌博成瘾，,sad,1,C:/Emotion Speech Dataset/0001/Sad/0001_001172.wav
+0001_001400,是很难听的脏话，主人可别学了。,sad,1,C:/Emotion Speech Dataset/0001/Sad/0001_001400.wav
+0001_001071,已经播至该专辑最后一个声音。,sad,1,C:/Emotion Speech Dataset/0001/Sad/0001_001071.wav
+0001_001239,我是一名教师，你可是好眼光。,sad,1,C:/Emotion Speech Dataset/0001/Sad/0001_001239.wav
+0001_001122,资料全都不见了。气死我了。,sad,1,C:/Emotion Speech Dataset/0001/Sad/0001_001122.wav
+0001_001157,我的表两点四十二。可是它有点快。,sad,1,C:/Emotion Speech Dataset/0001/Sad/0001_001157.wav
+0001_001321,很大，令人兴奋但是嘈杂。,sad,1,C:/Emotion Speech Dataset/0001/Sad/0001_001321.wav
+0001_001399,是的，真是名副其实。,sad,1,C:/Emotion Speech Dataset/0001/Sad/0001_001399.wav
+0001_001153,感觉好温暖呀，好的，一会儿见。,sad,1,C:/Emotion Speech Dataset/0001/Sad/0001_001153.wav
+0001_001615,拜拜，明天要再来和小可爱聊天。,surprise,1,C:/Emotion Speech Dataset/0001/Surprise/0001_001615.wav
+0001_001522,汤姆是个好人，但却赌博成瘾，,surprise,1,C:/Emotion Speech Dataset/0001/Surprise/0001_001522.wav
+0001_001750,是很难听的脏话，主人可别学了。,surprise,1,C:/Emotion Speech Dataset/0001/Surprise/0001_001750.wav
+0001_001421,已经播至该专辑最后一个声音。,surprise,1,C:/Emotion Speech Dataset/0001/Surprise/0001_001421.wav
+0001_001589,我是一名教师，你可是好眼光。,surprise,1,C:/Emotion Speech Dataset/0001/Surprise/0001_001589.wav
+0001_001472,资料全都不见了。气死我了。,surprise,1,C:/Emotion Speech Dataset/0001/Surprise/0001_001472.wav
+0001_001507,我的表两点四十二。可是它有点快。,surprise,1,C:/Emotion Speech Dataset/0001/Surprise/0001_001507.wav
+0001_001671,很大，令人兴奋但是嘈杂。,surprise,1,C:/Emotion Speech Dataset/0001/Surprise/0001_001671.wav
+0001_001749,是的，真是名副其实。,surprise,1,C:/Emotion Speech Dataset/0001/Surprise/0001_001749.wav
+0001_001503,感觉好温暖呀，好的，一会儿见。,surprise,1,C:/Emotion Speech Dataset/0001/Surprise/0001_001503.wav
+0002_000565,拜拜，明天要再来和小可爱聊天。,angry,2,C:/Emotion Speech Dataset/0002/Angry/0002_000565.wav
+0002_000472,汤姆是个好人，但却赌博成瘾，,angry,2,C:/Emotion Speech Dataset/0002/Angry/0002_000472.wav
+0002_000700,是很难听的脏话，主人可别学了。,angry,2,C:/Emotion Speech Dataset/0002/Angry/0002_000700.wav
+0002_000371,已经播至该专辑最后一个声音。,angry,2,C:/Emotion Speech Dataset/0002/Angry/0002_000371.wav
+0002_000539,我是一名教师，你可是好眼光。,angry,2,C:/Emotion Speech Dataset/0002/Angry/0002_000539.wav
+0002_000422,资料全都不见了。气死我了。,angry,2,C:/Emotion Speech Dataset/0002/Angry/0002_000422.wav
+0002_000457,我的表两点四十二。可是它有点快。,angry,2,C:/Emotion Speech Dataset/0002/Angry/0002_000457.wav
+0002_000621,很大，令人兴奋但是嘈杂。,angry,2,C:/Emotion Speech Dataset/0002/Angry/0002_000621.wav
+0002_000699,是的，真是名副其实。,angry,2,C:/Emotion Speech Dataset/0002/Angry/0002_000699.wav
+0002_000453,感觉好温暖呀，好的，一会儿见。,angry,2,C:/Emotion Speech Dataset/0002/Angry/0002_000453.wav
+0002_000915,拜拜，明天要再来和小可爱聊天。,happy,2,C:/Emotion Speech Dataset/0002/Happy/0002_000915.wav
+0002_000822,汤姆是个好人，但却赌博成瘾，,happy,2,C:/Emotion Speech Dataset/0002/Happy/0002_000822.wav
+0002_001050,是很难听的脏话，主人可别学了。,happy,2,C:/Emotion Speech Dataset/0002/Happy/0002_001050.wav
+0002_000721,已经播至该专辑最后一个声音。,happy,2,C:/Emotion Speech Dataset/0002/Happy/0002_000721.wav
+0002_000889,我是一名教师，你可是好眼光。,happy,2,C:/Emotion Speech Dataset/0002/Happy/0002_000889.wav
+0002_000772,资料全都不见了。气死我了。,happy,2,C:/Emotion Speech Dataset/0002/Happy/0002_000772.wav
+0002_000807,我的表两点四十二。可是它有点快。,happy,2,C:/Emotion Speech Dataset/0002/Happy/0002_000807.wav
+0002_000971,很大，令人兴奋但是嘈杂。,happy,2,C:/Emotion Speech Dataset/0002/Happy/0002_000971.wav
+0002_001049,是的，真是名副其实。,happy,2,C:/Emotion Speech Dataset/0002/Happy/0002_001049.wav
+0002_000803,感觉好温暖呀，好的，一会儿见。,happy,2,C:/Emotion Speech Dataset/0002/Happy/0002_000803.wav
+0002_000215,拜拜，明天要再来和小可爱聊天。,neutral,2,C:/Emotion Speech Dataset/0002/Neutral/0002_000215.wav
+0002_000122,汤姆是个好人，但却赌博成瘾，,neutral,2,C:/Emotion Speech Dataset/0002/Neutral/0002_000122.wav
+0002_000350,是很难听的脏话，主人可别学了。,neutral,2,C:/Emotion Speech Dataset/0002/Neutral/0002_000350.wav
+0002_000021,已经播至该专辑最后一个声音。,neutral,2,C:/Emotion Speech Dataset/0002/Neutral/0002_000021.wav
+0002_000189,我是一名教师，你可是好眼光。,neutral,2,C:/Emotion Speech Dataset/0002/Neutral/0002_000189.wav
+0002_000072,资料全都不见了。气死我了。,neutral,2,C:/Emotion Speech Dataset/0002/Neutral/0002_000072.wav
+0002_000107,我的表两点四十二。可是它有点快。,neutral,2,C:/Emotion Speech Dataset/0002/Neutral/0002_000107.wav
+0002_000271,很大，令人兴奋但是嘈杂。,neutral,2,C:/Emotion Speech Dataset/0002/Neutral/0002_000271.wav
+0002_000349,是的，真是名副其实。,neutral,2,C:/Emotion Speech Dataset/0002/Neutral/0002_000349.wav
+0002_000103,感觉好温暖呀，好的，一会儿见。,neutral,2,C:/Emotion Speech Dataset/0002/Neutral/0002_000103.wav
+0002_001265,拜拜，明天要再来和小可爱聊天。,sad,2,C:/Emotion Speech Dataset/0002/Sad/0002_001265.wav
+0002_001172,汤姆是个好人，但却赌博成瘾，,sad,2,C:/Emotion Speech Dataset/0002/Sad/0002_001172.wav
+0002_001400,是很难听的脏话，主人可别学了。,sad,2,C:/Emotion Speech Dataset/0002/Sad/0002_001400.wav
+0002_001071,已经播至该专辑最后一个声音。,sad,2,C:/Emotion Speech Dataset/0002/Sad/0002_001071.wav
+0002_001239,我是一名教师，你可是好眼光。,sad,2,C:/Emotion Speech Dataset/0002/Sad/0002_001239.wav
+0002_001122,资料全都不见了。气死我了。,sad,2,C:/Emotion Speech Dataset/0002/Sad/0002_001122.wav
+0002_001157,我的表两点四十二。可是它有点快。,sad,2,C:/Emotion Speech Dataset/0002/Sad/0002_001157.wav
+0002_001321,很大，令人兴奋但是嘈杂。,sad,2,C:/Emotion Speech Dataset/0002/Sad/0002_001321.wav
+0002_001399,是的，真是名副其实。,sad,2,C:/Emotion Speech Dataset/0002/Sad/0002_001399.wav
+0002_001153,感觉好温暖呀，好的，一会儿见。,sad,2,C:/Emotion Speech Dataset/0002/Sad/0002_001153.wav
+0002_001615,拜拜，明天要再来和小可爱聊天。,surprise,2,C:/Emotion Speech Dataset/0002/Surprise/0002_001615.wav
+0002_001522,汤姆是个好人，但却赌博成瘾，,surprise,2,C:/Emotion Speech Dataset/0002/Surprise/0002_001522.wav
+0002_001750,是很难听的脏话，主人可别学了。,surprise,2,C:/Emotion Speech Dataset/0002/Surprise/0002_001750.wav
+0002_001421,已经播至该专辑最后一个声音。,surprise,2,C:/Emotion Speech Dataset/0002/Surprise/0002_001421.wav
+0002_001589,我是一名教师，你可是好眼光。,surprise,2,C:/Emotion Speech Dataset/0002/Surprise/0002_001589.wav
+0002_001472,资料全都不见了。气死我了。,surprise,2,C:/Emotion Speech Dataset/0002/Surprise/0002_001472.wav
+0002_001507,我的表两点四十二。可是它有点快。,surprise,2,C:/Emotion Speech Dataset/0002/Surprise/0002_001507.wav
+0002_001671,很大，令人兴奋但是嘈杂。,surprise,2,C:/Emotion Speech Dataset/0002/Surprise/0002_001671.wav
+0002_001749,是的，真是名副其实。,surprise,2,C:/Emotion Speech Dataset/0002/Surprise/0002_001749.wav
+0002_001503,感觉好温暖呀，好的，一会儿见。,surprise,2,C:/Emotion Speech Dataset/0002/Surprise/0002_001503.wav
+0003_000565,拜拜，明天要再来和小可爱聊天。,angry,3,C:/Emotion Speech Dataset/0003/Angry/0003_000565.wav
+0003_000472,汤姆是个好人，但却赌博成瘾，,angry,3,C:/Emotion Speech Dataset/0003/Angry/0003_000472.wav
+0003_000700,是很难听的脏话，主人可别学了。,angry,3,C:/Emotion Speech Dataset/0003/Angry/0003_000700.wav
+0003_000371,已经播至该专辑最后一个声音。,angry,3,C:/Emotion Speech Dataset/0003/Angry/0003_000371.wav
+0003_000539,我是一名教师，你可是好眼光。,angry,3,C:/Emotion Speech Dataset/0003/Angry/0003_000539.wav
+0003_000422,资料全都不见了。气死我了。,angry,3,C:/Emotion Speech Dataset/0003/Angry/0003_000422.wav
+0003_000457,我的表两点四十二。可是它有点快。,angry,3,C:/Emotion Speech Dataset/0003/Angry/0003_000457.wav
+0003_000621,很大，令人兴奋但是嘈杂。,angry,3,C:/Emotion Speech Dataset/0003/Angry/0003_000621.wav
+0003_000699,是的，真是名副其实。,angry,3,C:/Emotion Speech Dataset/0003/Angry/0003_000699.wav
+0003_000453,感觉好温暖呀，好的，一会儿见。,angry,3,C:/Emotion Speech Dataset/0003/Angry/0003_000453.wav
+0003_000915,拜拜，明天要再来和小可爱聊天。,happy,3,C:/Emotion Speech Dataset/0003/Happy/0003_000915.wav
+0003_000822,汤姆是个好人，但却赌博成瘾，,happy,3,C:/Emotion Speech Dataset/0003/Happy/0003_000822.wav
+0003_001050,是很难听的脏话，主人可别学了。,happy,3,C:/Emotion Speech Dataset/0003/Happy/0003_001050.wav
+0003_000721,已经播至该专辑最后一个声音。,happy,3,C:/Emotion Speech Dataset/0003/Happy/0003_000721.wav
+0003_000889,我是一名教师，你可是好眼光。,happy,3,C:/Emotion Speech Dataset/0003/Happy/0003_000889.wav
+0003_000772,资料全都不见了。气死我了。,happy,3,C:/Emotion Speech Dataset/0003/Happy/0003_000772.wav
+0003_000807,我的表两点四十二。可是它有点快。,happy,3,C:/Emotion Speech Dataset/0003/Happy/0003_000807.wav
+0003_000971,很大，令人兴奋但是嘈杂。,happy,3,C:/Emotion Speech Dataset/0003/Happy/0003_000971.wav
+0003_001049,是的，真是名副其实。,happy,3,C:/Emotion Speech Dataset/0003/Happy/0003_001049.wav
+0003_000803,感觉好温暖呀，好的，一会儿见。,happy,3,C:/Emotion Speech Dataset/0003/Happy/0003_000803.wav
+0003_000215,拜拜，明天要再来和小可爱聊天。,neutral,3,C:/Emotion Speech Dataset/0003/Neutral/0003_000215.wav
+0003_000122,汤姆是个好人，但却赌博成瘾，,neutral,3,C:/Emotion Speech Dataset/0003/Neutral/0003_000122.wav
+0003_000350,是很难听的脏话，主人可别学了。,neutral,3,C:/Emotion Speech Dataset/0003/Neutral/0003_000350.wav
+0003_000021,已经播至该专辑最后一个声音。,neutral,3,C:/Emotion Speech Dataset/0003/Neutral/0003_000021.wav
+0003_000189,我是一名教师，你可是好眼光。,neutral,3,C:/Emotion Speech Dataset/0003/Neutral/0003_000189.wav
+0003_000072,资料全都不见了。气死我了。,neutral,3,C:/Emotion Speech Dataset/0003/Neutral/0003_000072.wav
+0003_000107,我的表两点四十二。可是它有点快。,neutral,3,C:/Emotion Speech Dataset/0003/Neutral/0003_000107.wav
+0003_000271,很大，令人兴奋但是嘈杂。,neutral,3,C:/Emotion Speech Dataset/0003/Neutral/0003_000271.wav
+0003_000349,是的，真是名副其实。,neutral,3,C:/Emotion Speech Dataset/0003/Neutral/0003_000349.wav
+0003_000103,感觉好温暖呀，好的，一会儿见。,neutral,3,C:/Emotion Speech Dataset/0003/Neutral/0003_000103.wav
+0003_001265,拜拜，明天要再来和小可爱聊天。,sad,3,C:/Emotion Speech Dataset/0003/Sad/0003_001265.wav
+0003_001172,汤姆是个好人，但却赌博成瘾，,sad,3,C:/Emotion Speech Dataset/0003/Sad/0003_001172.wav
+0003_001400,是很难听的脏话，主人可别学了。,sad,3,C:/Emotion Speech Dataset/0003/Sad/0003_001400.wav
+0003_001071,已经播至该专辑最后一个声音。,sad,3,C:/Emotion Speech Dataset/0003/Sad/0003_001071.wav
+0003_001239,我是一名教师，你可是好眼光。,sad,3,C:/Emotion Speech Dataset/0003/Sad/0003_001239.wav
+0003_001122,资料全都不见了。气死我了。,sad,3,C:/Emotion Speech Dataset/0003/Sad/0003_001122.wav
+0003_001157,我的表两点四十二。可是它有点快。,sad,3,C:/Emotion Speech Dataset/0003/Sad/0003_001157.wav
+0003_001321,很大，令人兴奋但是嘈杂。,sad,3,C:/Emotion Speech Dataset/0003/Sad/0003_001321.wav
+0003_001399,是的，真是名副其实。,sad,3,C:/Emotion Speech Dataset/0003/Sad/0003_001399.wav
+0003_001153,感觉好温暖呀，好呀，一会儿见。,sad,3,C:/Emotion Speech Dataset/0003/Sad/0003_001153.wav
+0003_001615,拜拜，明天要再来和小可爱聊天。,surprise,3,C:/Emotion Speech Dataset/0003/Surprise/0003_001615.wav
+0003_001522,汤姆是个好人，但却赌博成瘾，,surprise,3,C:/Emotion Speech Dataset/0003/Surprise/0003_001522.wav
+0003_001750,是很难听的脏话，主人可别学了。,surprise,3,C:/Emotion Speech Dataset/0003/Surprise/0003_001750.wav
+0003_001421,已经播至该专辑最后一个声音。,surprise,3,C:/Emotion Speech Dataset/0003/Surprise/0003_001421.wav
+0003_001589,我是一名教师，你可是好眼光。,surprise,3,C:/Emotion Speech Dataset/0003/Surprise/0003_001589.wav
+0003_001472,资料全都不见了。气死我了。,surprise,3,C:/Emotion Speech Dataset/0003/Surprise/0003_001472.wav
+0003_001507,我的表两点四十二。可是它有点快。,surprise,3,C:/Emotion Speech Dataset/0003/Surprise/0003_001507.wav
+0003_001671,很大，令人兴奋但是嘈杂。,surprise,3,C:/Emotion Speech Dataset/0003/Surprise/0003_001671.wav
+0003_001749,是的，真是名副其实。,surprise,3,C:/Emotion Speech Dataset/0003/Surprise/0003_001749.wav
+0003_001503,感觉好温暖呀，好的，一会儿见。,surprise,3,C:/Emotion Speech Dataset/0003/Surprise/0003_001503.wav
+0004_000565,拜拜，明天要再来和小可爱聊天。,angry,4,C:/Emotion Speech Dataset/0004/Angry/0004_000565.wav
+0004_000472,汤姆是个好人，但却赌博成瘾，,angry,4,C:/Emotion Speech Dataset/0004/Angry/0004_000472.wav
+0004_000700,是很难听的脏话，主人可别学了。,angry,4,C:/Emotion Speech Dataset/0004/Angry/0004_000700.wav
+0004_000371,已经播至该专辑最后一个声音。,angry,4,C:/Emotion Speech Dataset/0004/Angry/0004_000371.wav
+0004_000539,我是一名教师，你可是好眼光。,angry,4,C:/Emotion Speech Dataset/0004/Angry/0004_000539.wav
+0004_000422,资料全都不见了。气死我了。,angry,4,C:/Emotion Speech Dataset/0004/Angry/0004_000422.wav
+0004_000457,我的表两点四十二。可是它有点快。,angry,4,C:/Emotion Speech Dataset/0004/Angry/0004_000457.wav
+0004_000621,很大，令人兴奋但是嘈杂。,angry,4,C:/Emotion Speech Dataset/0004/Angry/0004_000621.wav
+0004_000699,是的，真是名副其实。,angry,4,C:/Emotion Speech Dataset/0004/Angry/0004_000699.wav
+0004_000453,感觉好温暖呀，好的，一会儿见。,angry,4,C:/Emotion Speech Dataset/0004/Angry/0004_000453.wav
+0004_000915,拜拜，明天要再来和小可爱聊天。,happy,4,C:/Emotion Speech Dataset/0004/Happy/0004_000915.wav
+0004_000822,汤姆是个好人，但却赌博成瘾，,happy,4,C:/Emotion Speech Dataset/0004/Happy/0004_000822.wav
+0004_001050,是很难听的脏话，主人可别学了。,happy,4,C:/Emotion Speech Dataset/0004/Happy/0004_001050.wav
+0004_000721,已经播至该专辑最后一个声音。,happy,4,C:/Emotion Speech Dataset/0004/Happy/0004_000721.wav
+0004_000889,我是一名教师，你可是好眼光。,happy,4,C:/Emotion Speech Dataset/0004/Happy/0004_000889.wav
+0004_000772,资料全都不见了。气死我了。,happy,4,C:/Emotion Speech Dataset/0004/Happy/0004_000772.wav
+0004_000807,我的表两点四十二。可是它有点快。,happy,4,C:/Emotion Speech Dataset/0004/Happy/0004_000807.wav
+0004_000971,很大，令人兴奋但是嘈杂。,happy,4,C:/Emotion Speech Dataset/0004/Happy/0004_000971.wav
+0004_001049,是的，真是名副其实。,happy,4,C:/Emotion Speech Dataset/0004/Happy/0004_001049.wav
+0004_000803,感觉好温暖呀，好的，一会儿见。,happy,4,C:/Emotion Speech Dataset/0004/Happy/0004_000803.wav
+0004_000215,拜拜，明天要再来和小可爱聊天。,neutral,4,C:/Emotion Speech Dataset/0004/Neutral/0004_000215.wav
+0004_000122,汤姆是个好人，但却赌博成瘾，,neutral,4,C:/Emotion Speech Dataset/0004/Neutral/0004_000122.wav
+0004_000350,是很难听的脏话，主人可别学了。,neutral,4,C:/Emotion Speech Dataset/0004/Neutral/0004_000350.wav
+0004_000021,已经播至该专辑最后一个声音。,neutral,4,C:/Emotion Speech Dataset/0004/Neutral/0004_000021.wav
+0004_000189,我是一名教师，你可是好眼光。,neutral,4,C:/Emotion Speech Dataset/0004/Neutral/0004_000189.wav
+0004_000072,资料全都不见了。气死我了。,neutral,4,C:/Emotion Speech Dataset/0004/Neutral/0004_000072.wav
+0004_000107,我的表两点四十二。可是它有点快。,neutral,4,C:/Emotion Speech Dataset/0004/Neutral/0004_000107.wav
+0004_000271,很大，令人兴奋但是嘈杂。,neutral,4,C:/Emotion Speech Dataset/0004/Neutral/0004_000271.wav
+0004_000349,是的，真是名副其实。,neutral,4,C:/Emotion Speech Dataset/0004/Neutral/0004_000349.wav
+0004_000103,感觉好温暖呀，好的，一会儿见。,neutral,4,C:/Emotion Speech Dataset/0004/Neutral/0004_000103.wav
+0004_001265,拜拜，明天要再来和小可爱聊天。,sad,4,C:/Emotion Speech Dataset/0004/Sad/0004_001265.wav
+0004_001172,汤姆是个好人，但却赌博成瘾，,sad,4,C:/Emotion Speech Dataset/0004/Sad/0004_001172.wav
+0004_001400,是很难听的脏话，主人可别学了。,sad,4,C:/Emotion Speech Dataset/0004/Sad/0004_001400.wav
+0004_001071,已经播至该专辑最后一个声音。,sad,4,C:/Emotion Speech Dataset/0004/Sad/0004_001071.wav
+0004_001239,我是一名教师，你可是好眼光。,sad,4,C:/Emotion Speech Dataset/0004/Sad/0004_001239.wav
+0004_001122,资料全都不见了。气死我了。,sad,4,C:/Emotion Speech Dataset/0004/Sad/0004_001122.wav
+0004_001157,我的表两点四十二。可是它有点快。,sad,4,C:/Emotion Speech Dataset/0004/Sad/0004_001157.wav
+0004_001321,很大，令人兴奋但是嘈杂。,sad,4,C:/Emotion Speech Dataset/0004/Sad/0004_001321.wav
+0004_001399,是的，真是名副其实。,sad,4,C:/Emotion Speech Dataset/0004/Sad/0004_001399.wav
+0004_001153,感觉好温暖呀，好的，一会儿见。,sad,4,C:/Emotion Speech Dataset/0004/Sad/0004_001153.wav
+0004_001615,拜拜，明天要再来和小可爱聊天。,surprise,4,C:/Emotion Speech Dataset/0004/Surprise/0004_001615.wav
+0004_001522,汤姆是个好人，但却赌博成瘾，,surprise,4,C:/Emotion Speech Dataset/0004/Surprise/0004_001522.wav
+0004_001750,是很难听的脏话，主人可别学了。,surprise,4,C:/Emotion Speech Dataset/0004/Surprise/0004_001750.wav
+0004_001421,已经播至该专辑最后一个声音。,surprise,4,C:/Emotion Speech Dataset/0004/Surprise/0004_001421.wav
+0004_001589,我是一名教师，你可是好眼光。,surprise,4,C:/Emotion Speech Dataset/0004/Surprise/0004_001589.wav
+0004_001472,资料全都不见了。气死我了。,surprise,4,C:/Emotion Speech Dataset/0004/Surprise/0004_001472.wav
+0004_001507,我的表两点四十二。可是它有点快。,surprise,4,C:/Emotion Speech Dataset/0004/Surprise/0004_001507.wav
+0004_001671,很大，令人兴奋但是嘈杂。,surprise,4,C:/Emotion Speech Dataset/0004/Surprise/0004_001671.wav
+0004_001749,是的，真是名副其实。,surprise,4,C:/Emotion Speech Dataset/0004/Surprise/0004_001749.wav
+0004_001503,感觉好温暖呀，好的，一会儿见。,surprise,4,C:/Emotion Speech Dataset/0004/Surprise/0004_001503.wav
+0005_000565,拜拜，明天要再来和小可爱聊天。,angry,5,C:/Emotion Speech Dataset/0005/Angry/0005_000565.wav
+0005_000472,汤姆是个好人，但却赌博成瘾，,angry,5,C:/Emotion Speech Dataset/0005/Angry/0005_000472.wav
+0005_000700,是很难听的脏话，主人可别学了。,angry,5,C:/Emotion Speech Dataset/0005/Angry/0005_000700.wav
+0005_000371,已经播至该专辑最后一个声音。,angry,5,C:/Emotion Speech Dataset/0005/Angry/0005_000371.wav
+0005_000539,我是一名教师，你可是好眼光。,angry,5,C:/Emotion Speech Dataset/0005/Angry/0005_000539.wav
+0005_000422,资料全都不见了。气死我了。,angry,5,C:/Emotion Speech Dataset/0005/Angry/0005_000422.wav
+0005_000457,我的表两点四十二。可是它有点快。,angry,5,C:/Emotion Speech Dataset/0005/Angry/0005_000457.wav
+0005_000621,很大，令人兴奋但是嘈杂。,angry,5,C:/Emotion Speech Dataset/0005/Angry/0005_000621.wav
+0005_000699,是的，真是名副其实。,angry,5,C:/Emotion Speech Dataset/0005/Angry/0005_000699.wav
+0005_000453,感觉好温暖呀，好的，一会儿见。,angry,5,C:/Emotion Speech Dataset/0005/Angry/0005_000453.wav
+0005_000915,拜拜，明天要再来和小可爱聊天。,happy,5,C:/Emotion Speech Dataset/0005/Happy/0005_000915.wav
+0005_000822,汤姆是个好人，但却赌博成瘾，,happy,5,C:/Emotion Speech Dataset/0005/Happy/0005_000822.wav
+0005_001050,是很难听的脏话，主人可别学了。,happy,5,C:/Emotion Speech Dataset/0005/Happy/0005_001050.wav
+0005_000721,已经播至该专辑最后一个声音。,happy,5,C:/Emotion Speech Dataset/0005/Happy/0005_000721.wav
+0005_000889,我是一名教师，你可是好眼光。,happy,5,C:/Emotion Speech Dataset/0005/Happy/0005_000889.wav
+0005_000772,资料全都不见了。气死我了。,happy,5,C:/Emotion Speech Dataset/0005/Happy/0005_000772.wav
+0005_000807,我的表两点四十二。可是它有点快。,happy,5,C:/Emotion Speech Dataset/0005/Happy/0005_000807.wav
+0005_000971,很大，令人兴奋但是嘈杂。,happy,5,C:/Emotion Speech Dataset/0005/Happy/0005_000971.wav
+0005_001049,是的，真是名副其实。,happy,5,C:/Emotion Speech Dataset/0005/Happy/0005_001049.wav
+0005_000803,感觉好温暖呀，好的，一会儿见。,happy,5,C:/Emotion Speech Dataset/0005/Happy/0005_000803.wav
+0005_000215,拜拜，明天要再来和小可爱聊天。,neutral,5,C:/Emotion Speech Dataset/0005/Neutral/0005_000215.wav
+0005_000122,汤姆是个好人，但却赌博成瘾，,neutral,5,C:/Emotion Speech Dataset/0005/Neutral/0005_000122.wav
+0005_000350,是很难听的脏话，主人可别学了。,neutral,5,C:/Emotion Speech Dataset/0005/Neutral/0005_000350.wav
+0005_000021,已经播至该专辑最后一个声音。,neutral,5,C:/Emotion Speech Dataset/0005/Neutral/0005_000021.wav
+0005_000189,我是一名教师，你可是好眼光。,neutral,5,C:/Emotion Speech Dataset/0005/Neutral/0005_000189.wav
+0005_000072,资料全都不见了。气死我了。,neutral,5,C:/Emotion Speech Dataset/0005/Neutral/0005_000072.wav
+0005_000107,我的表两点四十二。可是它有点快。,neutral,5,C:/Emotion Speech Dataset/0005/Neutral/0005_000107.wav
+0005_000271,很大，令人兴奋但是嘈杂。,neutral,5,C:/Emotion Speech Dataset/0005/Neutral/0005_000271.wav
+0005_000349,是的，真是名副其实。,neutral,5,C:/Emotion Speech Dataset/0005/Neutral/0005_000349.wav
+0005_000103,感觉好温暖呀，好的，一会儿见。,neutral,5,C:/Emotion Speech Dataset/0005/Neutral/0005_000103.wav
+0005_001265,拜拜，明天要再来和小可爱聊天。,sad,5,C:/Emotion Speech Dataset/0005/Sad/0005_001265.wav
+0005_001172,汤姆是个好人，但却赌博成瘾，,sad,5,C:/Emotion Speech Dataset/0005/Sad/0005_001172.wav
+0005_001400,是很难听的脏话，主人可别学了。,sad,5,C:/Emotion Speech Dataset/0005/Sad/0005_001400.wav
+0005_001071,已经播至该专辑最后一个声音。,sad,5,C:/Emotion Speech Dataset/0005/Sad/0005_001071.wav
+0005_001239,我是一名教师，你可是好眼光。,sad,5,C:/Emotion Speech Dataset/0005/Sad/0005_001239.wav
+0005_001122,资料全都不见了。气死我了。,sad,5,C:/Emotion Speech Dataset/0005/Sad/0005_001122.wav
+0005_001157,我的表两点四十二。可是它有点快。,sad,5,C:/Emotion Speech Dataset/0005/Sad/0005_001157.wav
+0005_001321,很大，令人兴奋但是嘈杂。,sad,5,C:/Emotion Speech Dataset/0005/Sad/0005_001321.wav
+0005_001399,是的，真是名副其实。,sad,5,C:/Emotion Speech Dataset/0005/Sad/0005_001399.wav
+0005_001153,感觉好温暖呀，好的，一会儿见。,sad,5,C:/Emotion Speech Dataset/0005/Sad/0005_001153.wav
+0005_001615,拜拜，明天要再来和小可爱聊天。,surprise,5,C:/Emotion Speech Dataset/0005/Surprise/0005_001615.wav
+0005_001522,汤姆是个好人，但却赌博成瘾，,surprise,5,C:/Emotion Speech Dataset/0005/Surprise/0005_001522.wav
+0005_001750,是很难听的脏话，主人可别学了。,surprise,5,C:/Emotion Speech Dataset/0005/Surprise/0005_001750.wav
+0005_001421,已经播至该专辑最后一个声音。,surprise,5,C:/Emotion Speech Dataset/0005/Surprise/0005_001421.wav
+0005_001589,我是一名教师，你可是好眼光。,surprise,5,C:/Emotion Speech Dataset/0005/Surprise/0005_001589.wav
+0005_001472,资料全都不见了。气死我了。,surprise,5,C:/Emotion Speech Dataset/0005/Surprise/0005_001472.wav
+0005_001507,我的表两点四十二。可是它有点快。,surprise,5,C:/Emotion Speech Dataset/0005/Surprise/0005_001507.wav
+0005_001671,很大，令人兴奋但是嘈杂。,surprise,5,C:/Emotion Speech Dataset/0005/Surprise/0005_001671.wav
+0005_001749,是的，真是名副其实。,surprise,5,C:/Emotion Speech Dataset/0005/Surprise/0005_001749.wav
+0005_001503,感觉好温暖呀，好的，一会儿见。,surprise,5,C:/Emotion Speech Dataset/0005/Surprise/0005_001503.wav
+0006_000565,拜拜，明天要再来和小可爱聊天。,angry,6,C:/Emotion Speech Dataset/0006/Angry/0006_000565.wav
+0006_000472,汤姆是个好人，但却赌博成瘾，,angry,6,C:/Emotion Speech Dataset/0006/Angry/0006_000472.wav
+0006_000700,是很难听的脏话，主人可别学了。,angry,6,C:/Emotion Speech Dataset/0006/Angry/0006_000700.wav
+0006_000371,已经播至该专辑最后一个声音。,angry,6,C:/Emotion Speech Dataset/0006/Angry/0006_000371.wav
+0006_000539,我是一名教师，你可是好眼光。,angry,6,C:/Emotion Speech Dataset/0006/Angry/0006_000539.wav
+0006_000422,资料全都不见了。气死我了。,angry,6,C:/Emotion Speech Dataset/0006/Angry/0006_000422.wav
+0006_000457,我的表两点四十二。可是它有点快。,angry,6,C:/Emotion Speech Dataset/0006/Angry/0006_000457.wav
+0006_000621,很大，令人兴奋但是嘈杂。,angry,6,C:/Emotion Speech Dataset/0006/Angry/0006_000621.wav
+0006_000699,是的，真是名副其实。,angry,6,C:/Emotion Speech Dataset/0006/Angry/0006_000699.wav
+0006_000453,感觉好温暖呀，好的，一会儿见。,angry,6,C:/Emotion Speech Dataset/0006/Angry/0006_000453.wav
+0006_000915,拜拜，明天要再来和小可爱聊天。,happy,6,C:/Emotion Speech Dataset/0006/Happy/0006_000915.wav
+0006_000822,汤姆是个好人，但却赌博成瘾，,happy,6,C:/Emotion Speech Dataset/0006/Happy/0006_000822.wav
+0006_001050,是很难听的脏话，主人可别学了。,happy,6,C:/Emotion Speech Dataset/0006/Happy/0006_001050.wav
+0006_000721,已经播至该专辑最后一个声音。,happy,6,C:/Emotion Speech Dataset/0006/Happy/0006_000721.wav
+0006_000889,我是一名教师，你可是好眼光。,happy,6,C:/Emotion Speech Dataset/0006/Happy/0006_000889.wav
+0006_000772,资料全都不见了。气死我了。,happy,6,C:/Emotion Speech Dataset/0006/Happy/0006_000772.wav
+0006_000807,我的表两点四十二。可是它有点快。,happy,6,C:/Emotion Speech Dataset/0006/Happy/0006_000807.wav
+0006_000971,很大，令人兴奋但是嘈杂。,happy,6,C:/Emotion Speech Dataset/0006/Happy/0006_000971.wav
+0006_001049,是的，真是名副其实。,happy,6,C:/Emotion Speech Dataset/0006/Happy/0006_001049.wav
+0006_000803,感觉好温暖呀，好的，一会儿见。,happy,6,C:/Emotion Speech Dataset/0006/Happy/0006_000803.wav
+0006_000215,拜拜，明天要再来和小可爱聊天。,neutral,6,C:/Emotion Speech Dataset/0006/Neutral/0006_000215.wav
+0006_000122,汤姆是个好人，但却赌博成瘾，,neutral,6,C:/Emotion Speech Dataset/0006/Neutral/0006_000122.wav
+0006_000350,是很难听的脏话，主人可别学了。,neutral,6,C:/Emotion Speech Dataset/0006/Neutral/0006_000350.wav
+0006_000021,已经播至该专辑最后一个声音。,neutral,6,C:/Emotion Speech Dataset/0006/Neutral/0006_000021.wav
+0006_000189,我是一名教师，你可是好眼光。,neutral,6,C:/Emotion Speech Dataset/0006/Neutral/0006_000189.wav
+0006_000072,资料全都不见了。气死我了。,neutral,6,C:/Emotion Speech Dataset/0006/Neutral/0006_000072.wav
+0006_000107,我的表两点四十二。可是它有点快。,neutral,6,C:/Emotion Speech Dataset/0006/Neutral/0006_000107.wav
+0006_000271,很大，令人兴奋但是嘈杂。,neutral,6,C:/Emotion Speech Dataset/0006/Neutral/0006_000271.wav
+0006_000349,是的，真是名副其实。,neutral,6,C:/Emotion Speech Dataset/0006/Neutral/0006_000349.wav
+0006_000103,感觉好温暖呀，好的，一会儿见。,neutral,6,C:/Emotion Speech Dataset/0006/Neutral/0006_000103.wav
+0006_001265,拜拜，明天要再来和小可爱聊天。,sad,6,C:/Emotion Speech Dataset/0006/Sad/0006_001265.wav
+0006_001172,汤姆是个好人，但却赌博成瘾，,sad,6,C:/Emotion Speech Dataset/0006/Sad/0006_001172.wav
+0006_001400,是很难听的脏话，主人可别学了。,sad,6,C:/Emotion Speech Dataset/0006/Sad/0006_001400.wav
+0006_001071,已经播至该专辑最后一个声音。,sad,6,C:/Emotion Speech Dataset/0006/Sad/0006_001071.wav
+0006_001239,我是一名教师，你可是好眼光。,sad,6,C:/Emotion Speech Dataset/0006/Sad/0006_001239.wav
+0006_001122,资料全都不见了。气死我了。,sad,6,C:/Emotion Speech Dataset/0006/Sad/0006_001122.wav
+0006_001157,我的表两点四十二。可是它有点快。,sad,6,C:/Emotion Speech Dataset/0006/Sad/0006_001157.wav
+0006_001321,很大，令人兴奋但是嘈杂。,sad,6,C:/Emotion Speech Dataset/0006/Sad/0006_001321.wav
+0006_001399,是的，真是名副其实。,sad,6,C:/Emotion Speech Dataset/0006/Sad/0006_001399.wav
+0006_001153,感觉好温暖呀，好的，一会儿见。,sad,6,C:/Emotion Speech Dataset/0006/Sad/0006_001153.wav
+0006_001615,拜拜，明天要再来和小可爱聊天。,surprise,6,C:/Emotion Speech Dataset/0006/Surprise/0006_001615.wav
+0006_001522,汤姆是个好人，但却赌博成瘾，,surprise,6,C:/Emotion Speech Dataset/0006/Surprise/0006_001522.wav
+0006_001750,是很难听的脏话，主人可别学了。,surprise,6,C:/Emotion Speech Dataset/0006/Surprise/0006_001750.wav
+0006_001421,已经播至该专辑最后一个声音。,surprise,6,C:/Emotion Speech Dataset/0006/Surprise/0006_001421.wav
+0006_001589,我是一名教师，你可是好眼光。,surprise,6,C:/Emotion Speech Dataset/0006/Surprise/0006_001589.wav
+0006_001472,资料全都不见了。气死我了。,surprise,6,C:/Emotion Speech Dataset/0006/Surprise/0006_001472.wav
+0006_001507,我的表两点四十二。可是它有点快。,surprise,6,C:/Emotion Speech Dataset/0006/Surprise/0006_001507.wav
+0006_001671,很大，令人兴奋但是嘈杂。,surprise,6,C:/Emotion Speech Dataset/0006/Surprise/0006_001671.wav
+0006_001749,是的，真是名副其实。,surprise,6,C:/Emotion Speech Dataset/0006/Surprise/0006_001749.wav
+0006_001503,感觉好温暖呀，好的，一会儿见。,surprise,6,C:/Emotion Speech Dataset/0006/Surprise/0006_001503.wav
+0007_000565,拜拜，明天要再来和小可爱聊天。,angry,7,C:/Emotion Speech Dataset/0007/Angry/0007_000565.wav
+0007_000472,汤姆是个好人，但是却赌博成瘾，,angry,7,C:/Emotion Speech Dataset/0007/Angry/0007_000472.wav
+0007_000700,是很难听的脏话，主人可别学了。,angry,7,C:/Emotion Speech Dataset/0007/Angry/0007_000700.wav
+0007_000371,已经播至该专辑最后一个声音。,angry,7,C:/Emotion Speech Dataset/0007/Angry/0007_000371.wav
+0007_000539,我是一名教师，你可是好眼光。,angry,7,C:/Emotion Speech Dataset/0007/Angry/0007_000539.wav
+0007_000422,资料全都不见了。气死我了。,angry,7,C:/Emotion Speech Dataset/0007/Angry/0007_000422.wav
+0007_000457,我的表两点四十二。可是它有点快。,angry,7,C:/Emotion Speech Dataset/0007/Angry/0007_000457.wav
+0007_000621,很大，令人兴奋但是嘈杂。,angry,7,C:/Emotion Speech Dataset/0007/Angry/0007_000621.wav
+0007_000699,是的，真是名副其实。,angry,7,C:/Emotion Speech Dataset/0007/Angry/0007_000699.wav
+0007_000453,感觉好温暖呀，好的，一会儿见。,angry,7,C:/Emotion Speech Dataset/0007/Angry/0007_000453.wav
+0007_000915,拜拜，明天要再来和小可爱聊天。,happy,7,C:/Emotion Speech Dataset/0007/Happy/0007_000915.wav
+0007_000822,汤姆是个好人，但却赌博成瘾，,happy,7,C:/Emotion Speech Dataset/0007/Happy/0007_000822.wav
+0007_001050,是很难听的脏话，主人可别学了。,happy,7,C:/Emotion Speech Dataset/0007/Happy/0007_001050.wav
+0007_000721,已经播至该专辑最后一个声音。,happy,7,C:/Emotion Speech Dataset/0007/Happy/0007_000721.wav
+0007_000889,我是一名教师，你可是好眼光。,happy,7,C:/Emotion Speech Dataset/0007/Happy/0007_000889.wav
+0007_000772,资料全都不见了。气死我了。,happy,7,C:/Emotion Speech Dataset/0007/Happy/0007_000772.wav
+0007_000807,我的表两点四十二。可是它有点快。,happy,7,C:/Emotion Speech Dataset/0007/Happy/0007_000807.wav
+0007_000971,很大，令人兴奋但是嘈杂。,happy,7,C:/Emotion Speech Dataset/0007/Happy/0007_000971.wav
+0007_001049,是的，真是名副其实。,happy,7,C:/Emotion Speech Dataset/0007/Happy/0007_001049.wav
+0007_000803,感觉好温暖呀，好的，一会儿见。,happy,7,C:/Emotion Speech Dataset/0007/Happy/0007_000803.wav
+0007_000215,拜拜，明天要再来和小可爱聊天。,neutral,7,C:/Emotion Speech Dataset/0007/Neutral/0007_000215.wav
+0007_000122,汤姆是个好人，但却赌博成瘾，,neutral,7,C:/Emotion Speech Dataset/0007/Neutral/0007_000122.wav
+0007_000350,是很难听的脏话，主人可别学了。,neutral,7,C:/Emotion Speech Dataset/0007/Neutral/0007_000350.wav
+0007_000021,已经播至该专辑最后一个声音。,neutral,7,C:/Emotion Speech Dataset/0007/Neutral/0007_000021.wav
+0007_000189,我是一名教师，你可是好眼光。,neutral,7,C:/Emotion Speech Dataset/0007/Neutral/0007_000189.wav
+0007_000072,资料全都不见了。气死我了。,neutral,7,C:/Emotion Speech Dataset/0007/Neutral/0007_000072.wav
+0007_000107,我的表两点四十二。可是它有点快。,neutral,7,C:/Emotion Speech Dataset/0007/Neutral/0007_000107.wav
+0007_000271,很大，令人兴奋但是嘈杂。,neutral,7,C:/Emotion Speech Dataset/0007/Neutral/0007_000271.wav
+0007_000349,是的，真是名副其实。,neutral,7,C:/Emotion Speech Dataset/0007/Neutral/0007_000349.wav
+0007_000103,感觉好温暖呀，好的，一会儿见。,neutral,7,C:/Emotion Speech Dataset/0007/Neutral/0007_000103.wav
+0007_001265,拜拜，明天要再来和小可爱聊天。,sad,7,C:/Emotion Speech Dataset/0007/Sad/0007_001265.wav
+0007_001172,汤姆是个好人，但却赌博成瘾，,sad,7,C:/Emotion Speech Dataset/0007/Sad/0007_001172.wav
+0007_001400,是很难听的脏话，主人可别学了。,sad,7,C:/Emotion Speech Dataset/0007/Sad/0007_001400.wav
+0007_001071,已经播至该专辑最后一个声音。,sad,7,C:/Emotion Speech Dataset/0007/Sad/0007_001071.wav
+0007_001239,我是一名教师，你可是好眼光。,sad,7,C:/Emotion Speech Dataset/0007/Sad/0007_001239.wav
+0007_001122,资料全都不见了。气死我了。,sad,7,C:/Emotion Speech Dataset/0007/Sad/0007_001122.wav
+0007_001157,我的表两点四十二。可是它有点快。,sad,7,C:/Emotion Speech Dataset/0007/Sad/0007_001157.wav
+0007_001321,很大，令人兴奋但是嘈杂。,sad,7,C:/Emotion Speech Dataset/0007/Sad/0007_001321.wav
+0007_001399,是的，真是名副其实。,sad,7,C:/Emotion Speech Dataset/0007/Sad/0007_001399.wav
+0007_001153,感觉好温暖呀，好的，一会儿见。,sad,7,C:/Emotion Speech Dataset/0007/Sad/0007_001153.wav
+0007_001615,拜拜，明天要再来和小可爱聊天。,surprise,7,C:/Emotion Speech Dataset/0007/Surprise/0007_001615.wav
+0007_001522,汤姆是个好人，但却赌博成瘾，,surprise,7,C:/Emotion Speech Dataset/0007/Surprise/0007_001522.wav
+0007_001750,是很难听的脏话，主人可别学了。,surprise,7,C:/Emotion Speech Dataset/0007/Surprise/0007_001750.wav
+0007_001421,已经转播至该专辑最后一个声音。,surprise,7,C:/Emotion Speech Dataset/0007/Surprise/0007_001421.wav
+0007_001589,我是一名教师，你可是好眼光。,surprise,7,C:/Emotion Speech Dataset/0007/Surprise/0007_001589.wav
+0007_001472,资料全都不见了。气死我了。,surprise,7,C:/Emotion Speech Dataset/0007/Surprise/0007_001472.wav
+0007_001507,我的表两点四十二。可是它有点快。,surprise,7,C:/Emotion Speech Dataset/0007/Surprise/0007_001507.wav
+0007_001671,很大，令人兴奋但是嘈杂。,surprise,7,C:/Emotion Speech Dataset/0007/Surprise/0007_001671.wav
+0007_001749,是的，真是名副其实。,surprise,7,C:/Emotion Speech Dataset/0007/Surprise/0007_001749.wav
+0007_001503,感觉好温暖呀，好的，一会儿见。,surprise,7,C:/Emotion Speech Dataset/0007/Surprise/0007_001503.wav
+0008_000565,拜拜，明天要再来和小可爱聊天。,angry,8,C:/Emotion Speech Dataset/0008/Angry/0008_000565.wav
+0008_000472,汤姆是个好人，但却赌博成瘾，,angry,8,C:/Emotion Speech Dataset/0008/Angry/0008_000472.wav
+0008_000700,是很难听的脏话，主人可别学了。,angry,8,C:/Emotion Speech Dataset/0008/Angry/0008_000700.wav
+0008_000371,已经播至该专辑最后一个声音。,angry,8,C:/Emotion Speech Dataset/0008/Angry/0008_000371.wav
+0008_000539,我是一名教师，你可是好眼光。,angry,8,C:/Emotion Speech Dataset/0008/Angry/0008_000539.wav
+0008_000422,资料全都不见了。气死我了。,angry,8,C:/Emotion Speech Dataset/0008/Angry/0008_000422.wav
+0008_000457,我的表两点四十二。可是它有点快。,angry,8,C:/Emotion Speech Dataset/0008/Angry/0008_000457.wav
+0008_000621,很大，令人兴奋但是嘈杂。,angry,8,C:/Emotion Speech Dataset/0008/Angry/0008_000621.wav
+0008_000699,是的，真是名副其实。,angry,8,C:/Emotion Speech Dataset/0008/Angry/0008_000699.wav
+0008_000453,感觉好温暖呀，好的，一会儿见。,angry,8,C:/Emotion Speech Dataset/0008/Angry/0008_000453.wav
+0008_000915,拜拜，明天要再来和小可爱聊天。,happy,8,C:/Emotion Speech Dataset/0008/Happy/0008_000915.wav
+0008_000822,汤姆是个好人，但却赌博成瘾，,happy,8,C:/Emotion Speech Dataset/0008/Happy/0008_000822.wav
+0008_001050,是很难听的脏话，主人可别学了。,happy,8,C:/Emotion Speech Dataset/0008/Happy/0008_001050.wav
+0008_000721,已经播至该专辑最后一个声音。,happy,8,C:/Emotion Speech Dataset/0008/Happy/0008_000721.wav
+0008_000889,我是一名教师，你可是好眼光。,happy,8,C:/Emotion Speech Dataset/0008/Happy/0008_000889.wav
+0008_000772,资料全都不见了。气死我了。,happy,8,C:/Emotion Speech Dataset/0008/Happy/0008_000772.wav
+0008_000807,我的表两点四十二。可是它有点快。,happy,8,C:/Emotion Speech Dataset/0008/Happy/0008_000807.wav
+0008_000971,很大，令人兴奋但是嘈杂。,happy,8,C:/Emotion Speech Dataset/0008/Happy/0008_000971.wav
+0008_001049,是的，真是名副其实。,happy,8,C:/Emotion Speech Dataset/0008/Happy/0008_001049.wav
+0008_000803,感觉好温暖呀，好的，一会儿见。,happy,8,C:/Emotion Speech Dataset/0008/Happy/0008_000803.wav
+0008_000215,拜拜，明天要再来和小可爱聊天。,neutral,8,C:/Emotion Speech Dataset/0008/Neutral/0008_000215.wav
+0008_000122,汤姆是个好人，但却赌博成瘾，,neutral,8,C:/Emotion Speech Dataset/0008/Neutral/0008_000122.wav
+0008_000350,是很难听的脏话，主人可别学了。,neutral,8,C:/Emotion Speech Dataset/0008/Neutral/0008_000350.wav
+0008_000021,已经播至该专辑最后一个声音。,neutral,8,C:/Emotion Speech Dataset/0008/Neutral/0008_000021.wav
+0008_000189,我是一名教师，你可是好眼光。,neutral,8,C:/Emotion Speech Dataset/0008/Neutral/0008_000189.wav
+0008_000072,资料全都不见了。气死我了。,neutral,8,C:/Emotion Speech Dataset/0008/Neutral/0008_000072.wav
+0008_000107,我的表两点四十二。可是它有点快。,neutral,8,C:/Emotion Speech Dataset/0008/Neutral/0008_000107.wav
+0008_000271,很大，令人兴奋但是嘈杂。,neutral,8,C:/Emotion Speech Dataset/0008/Neutral/0008_000271.wav
+0008_000349,是的，真是名副其实。,neutral,8,C:/Emotion Speech Dataset/0008/Neutral/0008_000349.wav
+0008_000103,感觉好温暖呀，好的，一会儿见。,neutral,8,C:/Emotion Speech Dataset/0008/Neutral/0008_000103.wav
+0008_001265,拜拜，明天要再来和小可爱聊天。,sad,8,C:/Emotion Speech Dataset/0008/Sad/0008_001265.wav
+0008_001172,汤姆是个好人，但却赌博成瘾，,sad,8,C:/Emotion Speech Dataset/0008/Sad/0008_001172.wav
+0008_001400,是很难听的脏话，主人可别学了。,sad,8,C:/Emotion Speech Dataset/0008/Sad/0008_001400.wav
+0008_001071,已经播至该专辑最后一个声音。,sad,8,C:/Emotion Speech Dataset/0008/Sad/0008_001071.wav
+0008_001239,我是一名教师，你可是好眼光。,sad,8,C:/Emotion Speech Dataset/0008/Sad/0008_001239.wav
+0008_001122,资料全都不见了。气死我了。,sad,8,C:/Emotion Speech Dataset/0008/Sad/0008_001122.wav
+0008_001157,我的表两点四十二。可是它有点快。,sad,8,C:/Emotion Speech Dataset/0008/Sad/0008_001157.wav
+0008_001321,很大，令人兴奋但是嘈杂。,sad,8,C:/Emotion Speech Dataset/0008/Sad/0008_001321.wav
+0008_001399,是的，真是名副其实。,sad,8,C:/Emotion Speech Dataset/0008/Sad/0008_001399.wav
+0008_001153,感觉好温暖呀，好的，一会儿见。,sad,8,C:/Emotion Speech Dataset/0008/Sad/0008_001153.wav
+0008_001615,拜拜，明天要再来和小可爱聊天。,surprise,8,C:/Emotion Speech Dataset/0008/Surprise/0008_001615.wav
+0008_001522,汤姆是个好人，但却赌博成瘾，,surprise,8,C:/Emotion Speech Dataset/0008/Surprise/0008_001522.wav
+0008_001750,是很难听的脏话，主人可别学了。,surprise,8,C:/Emotion Speech Dataset/0008/Surprise/0008_001750.wav
+0008_001421,已经播至该专辑最后一个声音。,surprise,8,C:/Emotion Speech Dataset/0008/Surprise/0008_001421.wav
+0008_001589,我是一名教师，你可是好眼光。,surprise,8,C:/Emotion Speech Dataset/0008/Surprise/0008_001589.wav
+0008_001472,资料全都不见了。气死我了。,surprise,8,C:/Emotion Speech Dataset/0008/Surprise/0008_001472.wav
+0008_001507,我的表两点四十二。可是它有点快。,surprise,8,C:/Emotion Speech Dataset/0008/Surprise/0008_001507.wav
+0008_001671,很大，令人兴奋但是嘈杂。,surprise,8,C:/Emotion Speech Dataset/0008/Surprise/0008_001671.wav
+0008_001749,是的，真是名副其实。,surprise,8,C:/Emotion Speech Dataset/0008/Surprise/0008_001749.wav
+0008_001503,感觉好温暖呀，好的，一会儿见。,surprise,8,C:/Emotion Speech Dataset/0008/Surprise/0008_001503.wav
+0009_000565,拜拜，明天要再来和小可爱聊天。,angry,9,C:/Emotion Speech Dataset/0009/Angry/0009_000565.wav
+0009_000472,汤姆是个好人，但却赌博成瘾，,angry,9,C:/Emotion Speech Dataset/0009/Angry/0009_000472.wav
+0009_000700,是很难听的脏话，主人可别学了。,angry,9,C:/Emotion Speech Dataset/0009/Angry/0009_000700.wav
+0009_000371,已经播至该专辑最后一个声音。,angry,9,C:/Emotion Speech Dataset/0009/Angry/0009_000371.wav
+0009_000539,我是一名教师，你可是好眼光。,angry,9,C:/Emotion Speech Dataset/0009/Angry/0009_000539.wav
+0009_000422,资料全都不见了。气死我了。,angry,9,C:/Emotion Speech Dataset/0009/Angry/0009_000422.wav
+0009_000457,我的表两点四十二。可是它有点快。,angry,9,C:/Emotion Speech Dataset/0009/Angry/0009_000457.wav
+0009_000621,很大，令人兴奋但是嘈杂。,angry,9,C:/Emotion Speech Dataset/0009/Angry/0009_000621.wav
+0009_000699,是的，真是名副其实。,angry,9,C:/Emotion Speech Dataset/0009/Angry/0009_000699.wav
+0009_000453,感觉好温暖呀，好的，一会儿见。,angry,9,C:/Emotion Speech Dataset/0009/Angry/0009_000453.wav
+0009_000915,拜拜，明天要再来和小可爱聊天。,happy,9,C:/Emotion Speech Dataset/0009/Happy/0009_000915.wav
+0009_000822,汤姆是个好人，但却赌博成瘾，,happy,9,C:/Emotion Speech Dataset/0009/Happy/0009_000822.wav
+0009_001050,是很难听的脏话，主人可别学了。,happy,9,C:/Emotion Speech Dataset/0009/Happy/0009_001050.wav
+0009_000721,已经播至该专辑最后一个声音。,happy,9,C:/Emotion Speech Dataset/0009/Happy/0009_000721.wav
+0009_000889,我是一名教师，你可是好眼光。,happy,9,C:/Emotion Speech Dataset/0009/Happy/0009_000889.wav
+0009_000772,资料全都不见了。气死我了。,happy,9,C:/Emotion Speech Dataset/0009/Happy/0009_000772.wav
+0009_000807,我的表两点四十二。可是它有点快。,happy,9,C:/Emotion Speech Dataset/0009/Happy/0009_000807.wav
+0009_000971,很大，令人兴奋但是嘈杂。,happy,9,C:/Emotion Speech Dataset/0009/Happy/0009_000971.wav
+0009_001049,是的，真是名副其实。,happy,9,C:/Emotion Speech Dataset/0009/Happy/0009_001049.wav
+0009_000803,感觉好温暖呀，好的，一会儿见。,happy,9,C:/Emotion Speech Dataset/0009/Happy/0009_000803.wav
+0009_000215,拜拜，明天要再来和小可爱聊天。,neutral,9,C:/Emotion Speech Dataset/0009/Neutral/0009_000215.wav
+0009_000122,汤姆是个好人，但却赌博成瘾，,neutral,9,C:/Emotion Speech Dataset/0009/Neutral/0009_000122.wav
+0009_000350,是很难听的脏话，主人可别学了。,neutral,9,C:/Emotion Speech Dataset/0009/Neutral/0009_000350.wav
+0009_000021,已经播至该专辑最后一个声音。,neutral,9,C:/Emotion Speech Dataset/0009/Neutral/0009_000021.wav
+0009_000189,我是一名教师，你可是好眼光。,neutral,9,C:/Emotion Speech Dataset/0009/Neutral/0009_000189.wav
+0009_000072,资料全都不见了。气死我了。,neutral,9,C:/Emotion Speech Dataset/0009/Neutral/0009_000072.wav
+0009_000107,我的表两点四十二。可是它有点快。,neutral,9,C:/Emotion Speech Dataset/0009/Neutral/0009_000107.wav
+0009_000271,很大，令人兴奋但是嘈杂。,neutral,9,C:/Emotion Speech Dataset/0009/Neutral/0009_000271.wav
+0009_000349,是的，真是名副其实。,neutral,9,C:/Emotion Speech Dataset/0009/Neutral/0009_000349.wav
+0009_000103,感觉好温暖呀，好的，一会儿见。,neutral,9,C:/Emotion Speech Dataset/0009/Neutral/0009_000103.wav
+0009_001265,拜拜，明天要再来和小可爱聊天。,sad,9,C:/Emotion Speech Dataset/0009/Sad/0009_001265.wav
+0009_001172,汤姆是个好人，但却赌博成瘾，,sad,9,C:/Emotion Speech Dataset/0009/Sad/0009_001172.wav
+0009_001400,是很难听的脏话，主人可别学了。,sad,9,C:/Emotion Speech Dataset/0009/Sad/0009_001400.wav
+0009_001071,已经播至该专辑最后一个声音。,sad,9,C:/Emotion Speech Dataset/0009/Sad/0009_001071.wav
+0009_001239,我是一名教师，你可是好眼光。,sad,9,C:/Emotion Speech Dataset/0009/Sad/0009_001239.wav
+0009_001122,资料全都不见了。气死我了。,sad,9,C:/Emotion Speech Dataset/0009/Sad/0009_001122.wav
+0009_001157,我的表两点四十二。可是它有点快。,sad,9,C:/Emotion Speech Dataset/0009/Sad/0009_001157.wav
+0009_001321,很大，令人兴奋但是嘈杂。,sad,9,C:/Emotion Speech Dataset/0009/Sad/0009_001321.wav
+0009_001399,是的，真是名副其实。,sad,9,C:/Emotion Speech Dataset/0009/Sad/0009_001399.wav
+0009_001153,感觉好温暖呀，好的，一会儿见。,sad,9,C:/Emotion Speech Dataset/0009/Sad/0009_001153.wav
+0009_001615,拜拜，明天要再来和小可爱聊天。,surprise,9,C:/Emotion Speech Dataset/0009/Surprise/0009_001615.wav
+0009_001522,汤姆是个好人，但却赌博成瘾，,surprise,9,C:/Emotion Speech Dataset/0009/Surprise/0009_001522.wav
+0009_001750,是很难听的脏话，主人可别学了。,surprise,9,C:/Emotion Speech Dataset/0009/Surprise/0009_001750.wav
+0009_001421,已经播至该专辑最后一个声音。,surprise,9,C:/Emotion Speech Dataset/0009/Surprise/0009_001421.wav
+0009_001589,我是一名教师，你可是好眼光。,surprise,9,C:/Emotion Speech Dataset/0009/Surprise/0009_001589.wav
+0009_001472,资料全都不见了。气死我了。,surprise,9,C:/Emotion Speech Dataset/0009/Surprise/0009_001472.wav
+0009_001507,我的表两点四十二。可是它有点快。,surprise,9,C:/Emotion Speech Dataset/0009/Surprise/0009_001507.wav
+0009_001671,很大，令人兴奋但是嘈杂。,surprise,9,C:/Emotion Speech Dataset/0009/Surprise/0009_001671.wav
+0009_001749,是的，真是名副其实。,surprise,9,C:/Emotion Speech Dataset/0009/Surprise/0009_001749.wav
+0009_001503,感觉好温暖呀，好的，一会儿见。,surprise,9,C:/Emotion Speech Dataset/0009/Surprise/0009_001503.wav
+0010_000565,拜拜，明天要再来和小可爱聊天。,angry,10,C:/Emotion Speech Dataset/0010/Angry/0010_000565.wav
+0010_000472,汤姆是个好人，但却赌博成瘾，,angry,10,C:/Emotion Speech Dataset/0010/Angry/0010_000472.wav
+0010_000700,是很难听的脏话，主人可别学了。,angry,10,C:/Emotion Speech Dataset/0010/Angry/0010_000700.wav
+0010_000371,已经播至该专辑最后一个声音。,angry,10,C:/Emotion Speech Dataset/0010/Angry/0010_000371.wav
+0010_000539,我是一名教师，你可是好眼光。,angry,10,C:/Emotion Speech Dataset/0010/Angry/0010_000539.wav
+0010_000422,资料全都不见了。气死我了。,angry,10,C:/Emotion Speech Dataset/0010/Angry/0010_000422.wav
+0010_000457,我的表两点四十二。可是它有点快。,angry,10,C:/Emotion Speech Dataset/0010/Angry/0010_000457.wav
+0010_000621,很大，令人兴奋但是嘈杂。,angry,10,C:/Emotion Speech Dataset/0010/Angry/0010_000621.wav
+0010_000699,是的，真是名副其实。,angry,10,C:/Emotion Speech Dataset/0010/Angry/0010_000699.wav
+0010_000453,感觉好温暖呀，好的，一会儿见。,angry,10,C:/Emotion Speech Dataset/0010/Angry/0010_000453.wav
+0010_000915,拜拜，明天要再来和小可爱聊天。,happy,10,C:/Emotion Speech Dataset/0010/Happy/0010_000915.wav
+0010_000822,汤姆是个好人，但却赌博成瘾，,happy,10,C:/Emotion Speech Dataset/0010/Happy/0010_000822.wav
+0010_001050,是很难听的脏话，主人可别学了。,happy,10,C:/Emotion Speech Dataset/0010/Happy/0010_001050.wav
+0010_000721,已经播至该专辑最后一个声音。,happy,10,C:/Emotion Speech Dataset/0010/Happy/0010_000721.wav
+0010_000889,我是一名教师，你可是好眼光。,happy,10,C:/Emotion Speech Dataset/0010/Happy/0010_000889.wav
+0010_000772,资料全都不见了。气死我了。,happy,10,C:/Emotion Speech Dataset/0010/Happy/0010_000772.wav
+0010_000807,我的表两点四十二。可是它有点快。,happy,10,C:/Emotion Speech Dataset/0010/Happy/0010_000807.wav
+0010_000971,很大，令人兴奋但是嘈杂。,happy,10,C:/Emotion Speech Dataset/0010/Happy/0010_000971.wav
+0010_001049,是的，真是名副其实。,happy,10,C:/Emotion Speech Dataset/0010/Happy/0010_001049.wav
+0010_000803,感觉好温暖呀，好的，一会儿见。,happy,10,C:/Emotion Speech Dataset/0010/Happy/0010_000803.wav
+0010_000215,拜拜，明天要再来和小可爱聊天。,neutral,10,C:/Emotion Speech Dataset/0010/Neutral/0010_000215.wav
+0010_000122,汤姆是个好人，但却赌博成瘾，,neutral,10,C:/Emotion Speech Dataset/0010/Neutral/0010_000122.wav
+0010_000350,是很难听的脏话，主人可别学了。,neutral,10,C:/Emotion Speech Dataset/0010/Neutral/0010_000350.wav
+0010_000021,已经播至该专辑最后一个声音。,neutral,10,C:/Emotion Speech Dataset/0010/Neutral/0010_000021.wav
+0010_000189,我是一名教师，你可是好眼光。,neutral,10,C:/Emotion Speech Dataset/0010/Neutral/0010_000189.wav
+0010_000072,资料全都不见了。气死我了。,neutral,10,C:/Emotion Speech Dataset/0010/Neutral/0010_000072.wav
+0010_000107,我的表两点四十二。可是它有点快。,neutral,10,C:/Emotion Speech Dataset/0010/Neutral/0010_000107.wav
+0010_000271,很大，令人兴奋但是嘈杂。,neutral,10,C:/Emotion Speech Dataset/0010/Neutral/0010_000271.wav
+0010_000349,是的，真是名副其实。,neutral,10,C:/Emotion Speech Dataset/0010/Neutral/0010_000349.wav
+0010_000103,感觉好温暖呀，好的，一会儿见。,neutral,10,C:/Emotion Speech Dataset/0010/Neutral/0010_000103.wav
+0010_001265,拜拜，明天要再来和小可爱聊天。,sad,10,C:/Emotion Speech Dataset/0010/Sad/0010_001265.wav
+0010_001172,汤姆是个好人，但却赌博成瘾，,sad,10,C:/Emotion Speech Dataset/0010/Sad/0010_001172.wav
+0010_001400,是很难听的脏话，主人可别学了。,sad,10,C:/Emotion Speech Dataset/0010/Sad/0010_001400.wav
+0010_001071,已经播至该专辑最后一个声音。,sad,10,C:/Emotion Speech Dataset/0010/Sad/0010_001071.wav
+0010_001239,我是一名教师，你可是好眼光。,sad,10,C:/Emotion Speech Dataset/0010/Sad/0010_001239.wav
+0010_001122,资料全都不见了。气死我了。,sad,10,C:/Emotion Speech Dataset/0010/Sad/0010_001122.wav
+0010_001157,我的表两点四十二。可是它有点快。,sad,10,C:/Emotion Speech Dataset/0010/Sad/0010_001157.wav
+0010_001321,很大，令人兴奋但是嘈杂。,sad,10,C:/Emotion Speech Dataset/0010/Sad/0010_001321.wav
+0010_001399,是的，真是名副其实。,sad,10,C:/Emotion Speech Dataset/0010/Sad/0010_001399.wav
+0010_001153,感觉好温暖呀，好的，一会儿见。,sad,10,C:/Emotion Speech Dataset/0010/Sad/0010_001153.wav
+0010_001615,拜拜，明天要再来和小可爱聊天。,surprise,10,C:/Emotion Speech Dataset/0010/Surprise/0010_001615.wav
+0010_001522,汤姆是个好人，但却赌博成瘾，,surprise,10,C:/Emotion Speech Dataset/0010/Surprise/0010_001522.wav
+0010_001750,是很难听的脏话，主人可别学了。,surprise,10,C:/Emotion Speech Dataset/0010/Surprise/0010_001750.wav
+0010_001421,已经播至该专辑最后一个声音。,surprise,10,C:/Emotion Speech Dataset/0010/Surprise/0010_001421.wav
+0010_001589,我是一名教师，你可是好眼光。,surprise,10,C:/Emotion Speech Dataset/0010/Surprise/0010_001589.wav
+0010_001472,资料全都不见了。气死我了。,surprise,10,C:/Emotion Speech Dataset/0010/Surprise/0010_001472.wav
+0010_001507,我的表两点四十二。可是它有点快。,surprise,10,C:/Emotion Speech Dataset/0010/Surprise/0010_001507.wav
+0010_001671,很大，令人兴奋但是嘈杂。,surprise,10,C:/Emotion Speech Dataset/0010/Surprise/0010_001671.wav
+0010_001749,是的，真是名副其实。,surprise,10,C:/Emotion Speech Dataset/0010/Surprise/0010_001749.wav
+0010_001503,感觉好温暖呀，好的，一会儿见。,surprise,10,C:/Emotion Speech Dataset/0010/Surprise/0010_001503.wav
+0011_000565,He likes dragons very much.,angry,11,C:/Emotion Speech Dataset/0011/Angry/0011_000565.wav
+0011_000472,Am I an absolute pauper?,angry,11,C:/Emotion Speech Dataset/0011/Angry/0011_000472.wav
+0011_000700,Do you have anything in mind?,angry,11,C:/Emotion Speech Dataset/0011/Angry/0011_000700.wav
+0011_000371,As rich-as Peter's son in law!,angry,11,C:/Emotion Speech Dataset/0011/Angry/0011_000371.wav
+0011_000539,When such wanderers meet.,angry,11,C:/Emotion Speech Dataset/0011/Angry/0011_000539.wav
+0011_000422,"How are you, dear child?",angry,11,C:/Emotion Speech Dataset/0011/Angry/0011_000422.wav
+0011_000457,Tom and Michael woke up next morning.,angry,11,C:/Emotion Speech Dataset/0011/Angry/0011_000457.wav
+0011_000621,I say I will be emperor.,angry,11,C:/Emotion Speech Dataset/0011/Angry/0011_000621.wav
+0011_000699,What do you think of this question?,angry,11,C:/Emotion Speech Dataset/0011/Angry/0011_000699.wav
+0011_000453,The elephant and the carpenter is the longest.,angry,11,C:/Emotion Speech Dataset/0011/Angry/0011_000453.wav
+0011_000915,He likes dragons very much.,happy,11,C:/Emotion Speech Dataset/0011/Happy/0011_000915.wav
+0011_000822,Am I an absolute pauper?,happy,11,C:/Emotion Speech Dataset/0011/Happy/0011_000822.wav
+0011_001050,Do you have anything in mind?,happy,11,C:/Emotion Speech Dataset/0011/Happy/0011_001050.wav
+0011_000721,As rich as Peter's son in law!,happy,11,C:/Emotion Speech Dataset/0011/Happy/0011_000721.wav
+0011_000889,When such wanderers meet.,happy,11,C:/Emotion Speech Dataset/0011/Happy/0011_000889.wav
+0011_000772,"How are you, dear child?",happy,11,C:/Emotion Speech Dataset/0011/Happy/0011_000772.wav
+0011_000807,Tom and Michael woke up next morning.,happy,11,C:/Emotion Speech Dataset/0011/Happy/0011_000807.wav
+0011_000971,I say I will be emperor.,happy,11,C:/Emotion Speech Dataset/0011/Happy/0011_000971.wav
+0011_001049,What do you think of this question?,happy,11,C:/Emotion Speech Dataset/0011/Happy/0011_001049.wav
+0011_000803,The elephant and the carpenter is the longest.,happy,11,C:/Emotion Speech Dataset/0011/Happy/0011_000803.wav
+0011_000215,He likes dragons very much.,neutral,11,C:/Emotion Speech Dataset/0011/Neutral/0011_000215.wav
+0011_000122,Am I an absolute pauper?,neutral,11,C:/Emotion Speech Dataset/0011/Neutral/0011_000122.wav
+0011_000350,Do you have anything in mind?,neutral,11,C:/Emotion Speech Dataset/0011/Neutral/0011_000350.wav
+0011_000021,As rich as Peter's son in law!,neutral,11,C:/Emotion Speech Dataset/0011/Neutral/0011_000021.wav
+0011_000189,When such wanderers meet.,neutral,11,C:/Emotion Speech Dataset/0011/Neutral/0011_000189.wav
+0011_000072,"How are you, dear child?",neutral,11,C:/Emotion Speech Dataset/0011/Neutral/0011_000072.wav
+0011_000107,Tom and Michael woke up next morning.,neutral,11,C:/Emotion Speech Dataset/0011/Neutral/0011_000107.wav
+0011_000271,I say I will be emperor.,neutral,11,C:/Emotion Speech Dataset/0011/Neutral/0011_000271.wav
+0011_000349,What do you think of this question?,neutral,11,C:/Emotion Speech Dataset/0011/Neutral/0011_000349.wav
+0011_000103,The elephant and the carpenter is the longest.,neutral,11,C:/Emotion Speech Dataset/0011/Neutral/0011_000103.wav
+0011_001265,He likes dragons very much.,sad,11,C:/Emotion Speech Dataset/0011/Sad/0011_001265.wav
+0011_001172,Am I an absolute pauper?,sad,11,C:/Emotion Speech Dataset/0011/Sad/0011_001172.wav
+0011_001400,Do you have anything in mind?,sad,11,C:/Emotion Speech Dataset/0011/Sad/0011_001400.wav
+0011_001071,As rich as Peter's son in law!,sad,11,C:/Emotion Speech Dataset/0011/Sad/0011_001071.wav
+0011_001239,When such wanderers meet.,sad,11,C:/Emotion Speech Dataset/0011/Sad/0011_001239.wav
+0011_001122,"How are you, dear child?",sad,11,C:/Emotion Speech Dataset/0011/Sad/0011_001122.wav
+0011_001157,Tom and Michael woke up the next morning.,sad,11,C:/Emotion Speech Dataset/0011/Sad/0011_001157.wav
+0011_001321,I say I will be emperor.,sad,11,C:/Emotion Speech Dataset/0011/Sad/0011_001321.wav
+0011_001399,What do you think of this question?,sad,11,C:/Emotion Speech Dataset/0011/Sad/0011_001399.wav
+0011_001153,The elephant and the carpenter is the longest.,sad,11,C:/Emotion Speech Dataset/0011/Sad/0011_001153.wav
+0011_001615,He likes dragons very much.,surprise,11,C:/Emotion Speech Dataset/0011/Surprise/0011_001615.wav
+0011_001522,Am I an absolute pauper?,surprise,11,C:/Emotion Speech Dataset/0011/Surprise/0011_001522.wav
+0011_001750,Do you have anything in mind?,surprise,11,C:/Emotion Speech Dataset/0011/Surprise/0011_001750.wav
+0011_001421,As rich as Peter's son in law!,surprise,11,C:/Emotion Speech Dataset/0011/Surprise/0011_001421.wav
+0011_001589,When such wanderers meet.,surprise,11,C:/Emotion Speech Dataset/0011/Surprise/0011_001589.wav
+0011_001472,"How are you, dear child?",surprise,11,C:/Emotion Speech Dataset/0011/Surprise/0011_001472.wav
+0011_001507,Tom and Michael woke up next morning.,surprise,11,C:/Emotion Speech Dataset/0011/Surprise/0011_001507.wav
+0011_001671,I say I will be emperor.,surprise,11,C:/Emotion Speech Dataset/0011/Surprise/0011_001671.wav
+0011_001749,What do you think of this question?,surprise,11,C:/Emotion Speech Dataset/0011/Surprise/0011_001749.wav
+0011_001503,The elephant and the carpenter is the longest.,surprise,11,C:/Emotion Speech Dataset/0011/Surprise/0011_001503.wav
+0012_000565,He likes dragons very much.,angry,12,C:/Emotion Speech Dataset/0012/Angry/0012_000565.wav
+0012_000472,Am I an absolute pauper?,angry,12,C:/Emotion Speech Dataset/0012/Angry/0012_000472.wav
+0012_000700,Do you have anything in mind?,angry,12,C:/Emotion Speech Dataset/0012/Angry/0012_000700.wav
+0012_000371,As rich-as Peter's son in law!,angry,12,C:/Emotion Speech Dataset/0012/Angry/0012_000371.wav
+0012_000539,When such wanderers meet.,angry,12,C:/Emotion Speech Dataset/0012/Angry/0012_000539.wav
+0012_000422,"How are you, dear child?",angry,12,C:/Emotion Speech Dataset/0012/Angry/0012_000422.wav
+0012_000457,Tom and Michael woke up next morning.,angry,12,C:/Emotion Speech Dataset/0012/Angry/0012_000457.wav
+0012_000621,I say I will be emperor.,angry,12,C:/Emotion Speech Dataset/0012/Angry/0012_000621.wav
+0012_000699,What do you think of this question?,angry,12,C:/Emotion Speech Dataset/0012/Angry/0012_000699.wav
+0012_000453,The elephant and the carpenter is the longest.,angry,12,C:/Emotion Speech Dataset/0012/Angry/0012_000453.wav
+0012_000915,He likes dragons very much.,happy,12,C:/Emotion Speech Dataset/0012/Happy/0012_000915.wav
+0012_000822,Am I an absolute pauper?,happy,12,C:/Emotion Speech Dataset/0012/Happy/0012_000822.wav
+0012_001050,Do you have anything in mind?,happy,12,C:/Emotion Speech Dataset/0012/Happy/0012_001050.wav
+0012_000721,As rich-as Peter's son in law!,happy,12,C:/Emotion Speech Dataset/0012/Happy/0012_000721.wav
+0012_000889,When such wanderers meet.,happy,12,C:/Emotion Speech Dataset/0012/Happy/0012_000889.wav
+0012_000772,"How are you, dear child?",happy,12,C:/Emotion Speech Dataset/0012/Happy/0012_000772.wav
+0012_000807,Tom and Michael woke up next morning.,happy,12,C:/Emotion Speech Dataset/0012/Happy/0012_000807.wav
+0012_000971,I say I will be emperor.,happy,12,C:/Emotion Speech Dataset/0012/Happy/0012_000971.wav
+0012_001049,What do you think of this question?,happy,12,C:/Emotion Speech Dataset/0012/Happy/0012_001049.wav
+0012_000803,The elephant and the carpenter is the longest.,happy,12,C:/Emotion Speech Dataset/0012/Happy/0012_000803.wav
+0012_000215,He likes dragons very much.,neutral,12,C:/Emotion Speech Dataset/0012/Neutral/0012_000215.wav
+0012_000122,Am I an absolute pauper?,neutral,12,C:/Emotion Speech Dataset/0012/Neutral/0012_000122.wav
+0012_000350,Do you have anything in mind?,neutral,12,C:/Emotion Speech Dataset/0012/Neutral/0012_000350.wav
+0012_000021,As rich-as Peter's son in law!,neutral,12,C:/Emotion Speech Dataset/0012/Neutral/0012_000021.wav
+0012_000189,When such wanderers meet.,neutral,12,C:/Emotion Speech Dataset/0012/Neutral/0012_000189.wav
+0012_000072,"How are you, dear child?",neutral,12,C:/Emotion Speech Dataset/0012/Neutral/0012_000072.wav
+0012_000107,Tom and Michael woke up next morning.,neutral,12,C:/Emotion Speech Dataset/0012/Neutral/0012_000107.wav
+0012_000271,I say I will be emperor.,neutral,12,C:/Emotion Speech Dataset/0012/Neutral/0012_000271.wav
+0012_000349,What do you think of this question?,neutral,12,C:/Emotion Speech Dataset/0012/Neutral/0012_000349.wav
+0012_000103,The elephant and the carpenter is the longest.,neutral,12,C:/Emotion Speech Dataset/0012/Neutral/0012_000103.wav
+0012_001265,He likes dragons very much.,sad,12,C:/Emotion Speech Dataset/0012/Sad/0012_001265.wav
+0012_001172,Am I an absolute pauper?,sad,12,C:/Emotion Speech Dataset/0012/Sad/0012_001172.wav
+0012_001400,Do you have anything in mind?,sad,12,C:/Emotion Speech Dataset/0012/Sad/0012_001400.wav
+0012_001071,As rich-as Peter's son in law!,sad,12,C:/Emotion Speech Dataset/0012/Sad/0012_001071.wav
+0012_001239,When such wanderers meet.,sad,12,C:/Emotion Speech Dataset/0012/Sad/0012_001239.wav
+0012_001122,"How are you, dear child?",sad,12,C:/Emotion Speech Dataset/0012/Sad/0012_001122.wav
+0012_001157,Tom and Michael woke up next morning.,sad,12,C:/Emotion Speech Dataset/0012/Sad/0012_001157.wav
+0012_001321,I say I will be emperor.,sad,12,C:/Emotion Speech Dataset/0012/Sad/0012_001321.wav
+0012_001399,What do you think of this question?,sad,12,C:/Emotion Speech Dataset/0012/Sad/0012_001399.wav
+0012_001153,The elephant and the carpenter is the longest.,sad,12,C:/Emotion Speech Dataset/0012/Sad/0012_001153.wav
+0012_001615,He likes dragons very much.,surprise,12,C:/Emotion Speech Dataset/0012/Surprise/0012_001615.wav
+0012_001522,Am I an absolute pauper?,surprise,12,C:/Emotion Speech Dataset/0012/Surprise/0012_001522.wav
+0012_001750,Do you have anything in mind?,surprise,12,C:/Emotion Speech Dataset/0012/Surprise/0012_001750.wav
+0012_001421,As rich-as Peter's son in law!,surprise,12,C:/Emotion Speech Dataset/0012/Surprise/0012_001421.wav
+0012_001589,When such wanderers meet.,surprise,12,C:/Emotion Speech Dataset/0012/Surprise/0012_001589.wav
+0012_001472,"How are you, dear child?",surprise,12,C:/Emotion Speech Dataset/0012/Surprise/0012_001472.wav
+0012_001507,Tom and Michael woke up next morning.,surprise,12,C:/Emotion Speech Dataset/0012/Surprise/0012_001507.wav
+0012_001671,I say I will be emperor.,surprise,12,C:/Emotion Speech Dataset/0012/Surprise/0012_001671.wav
+0012_001749,What do you think of this question?,surprise,12,C:/Emotion Speech Dataset/0012/Surprise/0012_001749.wav
+0012_001503,The elephant and the carpenter is the longest.,surprise,12,C:/Emotion Speech Dataset/0012/Surprise/0012_001503.wav
+0013_000565,He likes dragons very much.,angry,13,C:/Emotion Speech Dataset/0013/Angry/0013_000565.wav
+0013_000472,Am I an absolute pauper?,angry,13,C:/Emotion Speech Dataset/0013/Angry/0013_000472.wav
+0013_000700,Do you have anything in mind?,angry,13,C:/Emotion Speech Dataset/0013/Angry/0013_000700.wav
+0013_000371,As rich-as Peter's son in law!,angry,13,C:/Emotion Speech Dataset/0013/Angry/0013_000371.wav
+0013_000539,When such wanderers meet.,angry,13,C:/Emotion Speech Dataset/0013/Angry/0013_000539.wav
+0013_000422,"How are you, dear child?",angry,13,C:/Emotion Speech Dataset/0013/Angry/0013_000422.wav
+0013_000457,Tom and Michael woke up next morning.,angry,13,C:/Emotion Speech Dataset/0013/Angry/0013_000457.wav
+0013_000621,I say I will be emperor.,angry,13,C:/Emotion Speech Dataset/0013/Angry/0013_000621.wav
+0013_000699,What do you think of this question?,angry,13,C:/Emotion Speech Dataset/0013/Angry/0013_000699.wav
+0013_000453,The elephant and the carpenter is the longest.,angry,13,C:/Emotion Speech Dataset/0013/Angry/0013_000453.wav
+0013_000915,He likes dragons very much.,happy,13,C:/Emotion Speech Dataset/0013/Happy/0013_000915.wav
+0013_000822,Am I an absolute pauper?,happy,13,C:/Emotion Speech Dataset/0013/Happy/0013_000822.wav
+0013_001050,Do you have anything in mind?,happy,13,C:/Emotion Speech Dataset/0013/Happy/0013_001050.wav
+0013_000721,As rich-as Peter's son in law!,happy,13,C:/Emotion Speech Dataset/0013/Happy/0013_000721.wav
+0013_000889,When such wanderers meet.,happy,13,C:/Emotion Speech Dataset/0013/Happy/0013_000889.wav
+0013_000772,"How are you, dear child?",happy,13,C:/Emotion Speech Dataset/0013/Happy/0013_000772.wav
+0013_000807,Tom and Michael woke up next morning.,happy,13,C:/Emotion Speech Dataset/0013/Happy/0013_000807.wav
+0013_000971,I say I will be emperor.,happy,13,C:/Emotion Speech Dataset/0013/Happy/0013_000971.wav
+0013_001049,What do you think of this question?,happy,13,C:/Emotion Speech Dataset/0013/Happy/0013_001049.wav
+0013_000803,The elephant and the carpenter is the longest.,happy,13,C:/Emotion Speech Dataset/0013/Happy/0013_000803.wav
+0013_000215,He likes dragons very much.,neutral,13,C:/Emotion Speech Dataset/0013/Neutral/0013_000215.wav
+0013_000122,Am I an absolute pauper?,neutral,13,C:/Emotion Speech Dataset/0013/Neutral/0013_000122.wav
+0013_000350,Do you have anything in mind?,neutral,13,C:/Emotion Speech Dataset/0013/Neutral/0013_000350.wav
+0013_000021,As rich-as Peter's son in law!,neutral,13,C:/Emotion Speech Dataset/0013/Neutral/0013_000021.wav
+0013_000189,When such wanderers meet.,neutral,13,C:/Emotion Speech Dataset/0013/Neutral/0013_000189.wav
+0013_000072,"How are you, dear child?",neutral,13,C:/Emotion Speech Dataset/0013/Neutral/0013_000072.wav
+0013_000107,Tom and Michael woke up next morning.,neutral,13,C:/Emotion Speech Dataset/0013/Neutral/0013_000107.wav
+0013_000271,I say I will be emperor.,neutral,13,C:/Emotion Speech Dataset/0013/Neutral/0013_000271.wav
+0013_000349,What do you think of this question?,neutral,13,C:/Emotion Speech Dataset/0013/Neutral/0013_000349.wav
+0013_000103,The elephant and the carpenter is the longest.,neutral,13,C:/Emotion Speech Dataset/0013/Neutral/0013_000103.wav
+0013_001265,He likes dragons very much.,sad,13,C:/Emotion Speech Dataset/0013/Sad/0013_001265.wav
+0013_001172,Am I an absolute pauper?,sad,13,C:/Emotion Speech Dataset/0013/Sad/0013_001172.wav
+0013_001400,Do you have anything in mind?,sad,13,C:/Emotion Speech Dataset/0013/Sad/0013_001400.wav
+0013_001071,As rich-as Peter's son in law!,sad,13,C:/Emotion Speech Dataset/0013/Sad/0013_001071.wav
+0013_001239,When such wanderers meet.,sad,13,C:/Emotion Speech Dataset/0013/Sad/0013_001239.wav
+0013_001122,"How are you, dear child?",sad,13,C:/Emotion Speech Dataset/0013/Sad/0013_001122.wav
+0013_001157,Tom and Michael woke up next morning.,sad,13,C:/Emotion Speech Dataset/0013/Sad/0013_001157.wav
+0013_001321,I say I will be emperor.,sad,13,C:/Emotion Speech Dataset/0013/Sad/0013_001321.wav
+0013_001399,What do you think of this question?,sad,13,C:/Emotion Speech Dataset/0013/Sad/0013_001399.wav
+0013_001153,The elephant and the carpenter is the longest.,sad,13,C:/Emotion Speech Dataset/0013/Sad/0013_001153.wav
+0013_001615,He likes dragons very much.,surprise,13,C:/Emotion Speech Dataset/0013/Surprise/0013_001615.wav
+0013_001522,Am I an absolute pauper?,surprise,13,C:/Emotion Speech Dataset/0013/Surprise/0013_001522.wav
+0013_001750,Do you have anything in mind?,surprise,13,C:/Emotion Speech Dataset/0013/Surprise/0013_001750.wav
+0013_001421,As rich-as Peter's son in law!,surprise,13,C:/Emotion Speech Dataset/0013/Surprise/0013_001421.wav
+0013_001589,When such wanderers meet.,surprise,13,C:/Emotion Speech Dataset/0013/Surprise/0013_001589.wav
+0013_001472,"How are you, dear child?",surprise,13,C:/Emotion Speech Dataset/0013/Surprise/0013_001472.wav
+0013_001507,Tom and Michael woke up next morning.,surprise,13,C:/Emotion Speech Dataset/0013/Surprise/0013_001507.wav
+0013_001671,I say I will be emperor.,surprise,13,C:/Emotion Speech Dataset/0013/Surprise/0013_001671.wav
+0013_001749,What do you think of this question?,surprise,13,C:/Emotion Speech Dataset/0013/Surprise/0013_001749.wav
+0013_001503,The elephant and the carpenter is the longest.,surprise,13,C:/Emotion Speech Dataset/0013/Surprise/0013_001503.wav
+0014_000565,He likes dragons very much.,angry,14,C:/Emotion Speech Dataset/0014/Angry/0014_000565.wav
+0014_000472,Am I an absolute pauper?,angry,14,C:/Emotion Speech Dataset/0014/Angry/0014_000472.wav
+0014_000700,Do you have anything in mind?,angry,14,C:/Emotion Speech Dataset/0014/Angry/0014_000700.wav
+0014_000371,As rich-as Peter's son in law!,angry,14,C:/Emotion Speech Dataset/0014/Angry/0014_000371.wav
+0014_000539,When such wanderers meet.,angry,14,C:/Emotion Speech Dataset/0014/Angry/0014_000539.wav
+0014_000422,"How are you, dear child?",angry,14,C:/Emotion Speech Dataset/0014/Angry/0014_000422.wav
+0014_000457,Tom and Michael woke up next morning.,angry,14,C:/Emotion Speech Dataset/0014/Angry/0014_000457.wav
+0014_000621,I say I will be emperor.,angry,14,C:/Emotion Speech Dataset/0014/Angry/0014_000621.wav
+0014_000699,What do you think of this question?,angry,14,C:/Emotion Speech Dataset/0014/Angry/0014_000699.wav
+0014_000453,The elephant and the carpenter is the longest.,angry,14,C:/Emotion Speech Dataset/0014/Angry/0014_000453.wav
+0014_000915,He likes dragons very much.,happy,14,C:/Emotion Speech Dataset/0014/Happy/0014_000915.wav
+0014_000822,Am I an absolute pauper?,happy,14,C:/Emotion Speech Dataset/0014/Happy/0014_000822.wav
+0014_001050,Do you have anything in mind?,happy,14,C:/Emotion Speech Dataset/0014/Happy/0014_001050.wav
+0014_000721,As rich-as Peter's son in law!,happy,14,C:/Emotion Speech Dataset/0014/Happy/0014_000721.wav
+0014_000889,When such wanderers meet.,happy,14,C:/Emotion Speech Dataset/0014/Happy/0014_000889.wav
+0014_000772,"How are you, dear child?",happy,14,C:/Emotion Speech Dataset/0014/Happy/0014_000772.wav
+0014_000807,Tom and Michael woke up next morning.,happy,14,C:/Emotion Speech Dataset/0014/Happy/0014_000807.wav
+0014_000971,I say I will be emperor.,happy,14,C:/Emotion Speech Dataset/0014/Happy/0014_000971.wav
+0014_001049,What do you think of this question?,happy,14,C:/Emotion Speech Dataset/0014/Happy/0014_001049.wav
+0014_000803,The elephant and the carpenter is the longest.,happy,14,C:/Emotion Speech Dataset/0014/Happy/0014_000803.wav
+0014_000215,He likes dragons very much.,neutral,14,C:/Emotion Speech Dataset/0014/Neutral/0014_000215.wav
+0014_000122,Am I an absolute pauper?,neutral,14,C:/Emotion Speech Dataset/0014/Neutral/0014_000122.wav
+0014_000350,Do you have anything in mind?,neutral,14,C:/Emotion Speech Dataset/0014/Neutral/0014_000350.wav
+0014_000021,As rich-as Peter's son in law!,neutral,14,C:/Emotion Speech Dataset/0014/Neutral/0014_000021.wav
+0014_000189,When such wanderers meet.,neutral,14,C:/Emotion Speech Dataset/0014/Neutral/0014_000189.wav
+0014_000072,"How are you, dear child?",neutral,14,C:/Emotion Speech Dataset/0014/Neutral/0014_000072.wav
+0014_000107,Tom and Michael woke up next morning.,neutral,14,C:/Emotion Speech Dataset/0014/Neutral/0014_000107.wav
+0014_000271,I say I will be emperor.,neutral,14,C:/Emotion Speech Dataset/0014/Neutral/0014_000271.wav
+0014_000349,What do you think of this question?,neutral,14,C:/Emotion Speech Dataset/0014/Neutral/0014_000349.wav
+0014_000103,The elephant and the carpenter is the longest.,neutral,14,C:/Emotion Speech Dataset/0014/Neutral/0014_000103.wav
+0014_001265,He likes dragons very much.,sad,14,C:/Emotion Speech Dataset/0014/Sad/0014_001265.wav
+0014_001172,Am I an absolute pauper?,sad,14,C:/Emotion Speech Dataset/0014/Sad/0014_001172.wav
+0014_001400,Do you have anything in mind?,sad,14,C:/Emotion Speech Dataset/0014/Sad/0014_001400.wav
+0014_001071,As rich-as Peter's son in law!,sad,14,C:/Emotion Speech Dataset/0014/Sad/0014_001071.wav
+0014_001239,When such wanderers meet.,sad,14,C:/Emotion Speech Dataset/0014/Sad/0014_001239.wav
+0014_001122,"How are you, dear child?",sad,14,C:/Emotion Speech Dataset/0014/Sad/0014_001122.wav
+0014_001157,Tom and Michael woke up next morning.,sad,14,C:/Emotion Speech Dataset/0014/Sad/0014_001157.wav
+0014_001321,I say I will be emperor.,sad,14,C:/Emotion Speech Dataset/0014/Sad/0014_001321.wav
+0014_001399,What do you think of this question?,sad,14,C:/Emotion Speech Dataset/0014/Sad/0014_001399.wav
+0014_001153,The elephant and the carpenter is the longest.,sad,14,C:/Emotion Speech Dataset/0014/Sad/0014_001153.wav
+0014_001615,He likes dragons very much.,surprise,14,C:/Emotion Speech Dataset/0014/Surprise/0014_001615.wav
+0014_001522,Am I an absolute pauper?,surprise,14,C:/Emotion Speech Dataset/0014/Surprise/0014_001522.wav
+0014_001750,Do you have anything in mind?,surprise,14,C:/Emotion Speech Dataset/0014/Surprise/0014_001750.wav
+0014_001421,As rich-as Peter's son in law!,surprise,14,C:/Emotion Speech Dataset/0014/Surprise/0014_001421.wav
+0014_001589,When such wanderers meet.,surprise,14,C:/Emotion Speech Dataset/0014/Surprise/0014_001589.wav
+0014_001472,"How are you, dear child?",surprise,14,C:/Emotion Speech Dataset/0014/Surprise/0014_001472.wav
+0014_001507,Tom and Michael woke up next morning.,surprise,14,C:/Emotion Speech Dataset/0014/Surprise/0014_001507.wav
+0014_001671,I say I will be emperor.,surprise,14,C:/Emotion Speech Dataset/0014/Surprise/0014_001671.wav
+0014_001749,What do you think of this question?,surprise,14,C:/Emotion Speech Dataset/0014/Surprise/0014_001749.wav
+0014_001503,The elephant and the carpenter is the longest.,surprise,14,C:/Emotion Speech Dataset/0014/Surprise/0014_001503.wav
+0015_000565,He likes dragons very much.,angry,15,C:/Emotion Speech Dataset/0015/Angry/0015_000565.wav
+0015_000472,Am I an absolute pauper?,angry,15,C:/Emotion Speech Dataset/0015/Angry/0015_000472.wav
+0015_000700,Do you have anything in mind?,angry,15,C:/Emotion Speech Dataset/0015/Angry/0015_000700.wav
+0015_000371,As rich-as Peter's son in law!,angry,15,C:/Emotion Speech Dataset/0015/Angry/0015_000371.wav
+0015_000539,When such wanderers meet.,angry,15,C:/Emotion Speech Dataset/0015/Angry/0015_000539.wav
+0015_000422,"How are you, dear child?",angry,15,C:/Emotion Speech Dataset/0015/Angry/0015_000422.wav
+0015_000457,Tom and Michael woke up next morning.,angry,15,C:/Emotion Speech Dataset/0015/Angry/0015_000457.wav
+0015_000621,I say I will be emperor.,angry,15,C:/Emotion Speech Dataset/0015/Angry/0015_000621.wav
+0015_000699,What do you think of this question?,angry,15,C:/Emotion Speech Dataset/0015/Angry/0015_000699.wav
+0015_000453,The elephant and the carpenter is the longest.,angry,15,C:/Emotion Speech Dataset/0015/Angry/0015_000453.wav
+0015_000915,He likes dragons very much.,happy,15,C:/Emotion Speech Dataset/0015/Happy/0015_000915.wav
+0015_000822,Am I an absolute pauper?,happy,15,C:/Emotion Speech Dataset/0015/Happy/0015_000822.wav
+0015_001050,Do you have anything in mind?,happy,15,C:/Emotion Speech Dataset/0015/Happy/0015_001050.wav
+0015_000721,As rich-as Peter's son in law!,happy,15,C:/Emotion Speech Dataset/0015/Happy/0015_000721.wav
+0015_000889,and such wanderers meet.,happy,15,C:/Emotion Speech Dataset/0015/Happy/0015_000889.wav
+0015_000772,"How are you, dear child?",happy,15,C:/Emotion Speech Dataset/0015/Happy/0015_000772.wav
+0015_000807,Tom and Michael woke up next morning.,happy,15,C:/Emotion Speech Dataset/0015/Happy/0015_000807.wav
+0015_000971,I say I will be emperor.,happy,15,C:/Emotion Speech Dataset/0015/Happy/0015_000971.wav
+0015_001049,What do you think of this question?,happy,15,C:/Emotion Speech Dataset/0015/Happy/0015_001049.wav
+0015_000803,The elephant and the carpenter is the longest.,happy,15,C:/Emotion Speech Dataset/0015/Happy/0015_000803.wav
+0015_000215,He likes dragons very much.,neutral,15,C:/Emotion Speech Dataset/0015/Neutral/0015_000215.wav
+0015_000122,Am I an absolute pauper?,neutral,15,C:/Emotion Speech Dataset/0015/Neutral/0015_000122.wav
+0015_000350,Do you have anything in mind?,neutral,15,C:/Emotion Speech Dataset/0015/Neutral/0015_000350.wav
+0015_000021,As rich-as Peter's son in law!,neutral,15,C:/Emotion Speech Dataset/0015/Neutral/0015_000021.wav
+0015_000189,When such wanderers meet.,neutral,15,C:/Emotion Speech Dataset/0015/Neutral/0015_000189.wav
+0015_000072,"How are you, dear child?",neutral,15,C:/Emotion Speech Dataset/0015/Neutral/0015_000072.wav
+0015_000107,Tom and Michael woke up next morning.,neutral,15,C:/Emotion Speech Dataset/0015/Neutral/0015_000107.wav
+0015_000271,I say I will be emperor.,neutral,15,C:/Emotion Speech Dataset/0015/Neutral/0015_000271.wav
+0015_000349,What do you think of this question?,neutral,15,C:/Emotion Speech Dataset/0015/Neutral/0015_000349.wav
+0015_000103,The elephant and the carpenter is the longest.,neutral,15,C:/Emotion Speech Dataset/0015/Neutral/0015_000103.wav
+0015_001265,He likes dragons very much.,sad,15,C:/Emotion Speech Dataset/0015/Sad/0015_001265.wav
+0015_001172,Am I an absolute pauper?,sad,15,C:/Emotion Speech Dataset/0015/Sad/0015_001172.wav
+0015_001400,Do you have anything in mind?,sad,15,C:/Emotion Speech Dataset/0015/Sad/0015_001400.wav
+0015_001071,As rich-as Peter's son in law!,sad,15,C:/Emotion Speech Dataset/0015/Sad/0015_001071.wav
+0015_001239,When such wanderers meet.,sad,15,C:/Emotion Speech Dataset/0015/Sad/0015_001239.wav
+0015_001122,"How are you, dear child?",sad,15,C:/Emotion Speech Dataset/0015/Sad/0015_001122.wav
+0015_001157,Tom and Michael woke up next morning.,sad,15,C:/Emotion Speech Dataset/0015/Sad/0015_001157.wav
+0015_001321,I say I will be emperor.,sad,15,C:/Emotion Speech Dataset/0015/Sad/0015_001321.wav
+0015_001399,What do you think of this question?,sad,15,C:/Emotion Speech Dataset/0015/Sad/0015_001399.wav
+0015_001153,The elephant and the carpenter is the longest.,sad,15,C:/Emotion Speech Dataset/0015/Sad/0015_001153.wav
+0015_001615,He likes dragons very much.,surprise,15,C:/Emotion Speech Dataset/0015/Surprise/0015_001615.wav
+0015_001522,Am I an absolute pauper?,surprise,15,C:/Emotion Speech Dataset/0015/Surprise/0015_001522.wav
+0015_001750,Do you have anything in mind?,surprise,15,C:/Emotion Speech Dataset/0015/Surprise/0015_001750.wav
+0015_001421,As rich-as Peter's son in law!,surprise,15,C:/Emotion Speech Dataset/0015/Surprise/0015_001421.wav
+0015_001589,When such wanderers meet.,surprise,15,C:/Emotion Speech Dataset/0015/Surprise/0015_001589.wav
+0015_001472,"How are you, dear child?",surprise,15,C:/Emotion Speech Dataset/0015/Surprise/0015_001472.wav
+0015_001507,Tom and Michael woke up next morning.,surprise,15,C:/Emotion Speech Dataset/0015/Surprise/0015_001507.wav
+0015_001671,I say I will be emperor.,surprise,15,C:/Emotion Speech Dataset/0015/Surprise/0015_001671.wav
+0015_001749,What do you think of this question?,surprise,15,C:/Emotion Speech Dataset/0015/Surprise/0015_001749.wav
+0015_001503,The elephant and the carpenter is the longest.,surprise,15,C:/Emotion Speech Dataset/0015/Surprise/0015_001503.wav
+0016_000565,He likes dragons very much.,angry,16,C:/Emotion Speech Dataset/0016/Angry/0016_000565.wav
+0016_000472,Am I an absolute pauper?,angry,16,C:/Emotion Speech Dataset/0016/Angry/0016_000472.wav
+0016_000700,Do you have anything in mind?,angry,16,C:/Emotion Speech Dataset/0016/Angry/0016_000700.wav
+0016_000371,As rich-as Peter's son in law!,angry,16,C:/Emotion Speech Dataset/0016/Angry/0016_000371.wav
+0016_000539,When such wanderers meet.,angry,16,C:/Emotion Speech Dataset/0016/Angry/0016_000539.wav
+0016_000422,"How are you, dear child?",angry,16,C:/Emotion Speech Dataset/0016/Angry/0016_000422.wav
+0016_000457,Tom and Michael woke up next morning.,angry,16,C:/Emotion Speech Dataset/0016/Angry/0016_000457.wav
+0016_000621,I say I will be emperor.,angry,16,C:/Emotion Speech Dataset/0016/Angry/0016_000621.wav
+0016_000699,What do you think of this question?,angry,16,C:/Emotion Speech Dataset/0016/Angry/0016_000699.wav
+0016_000453,The elephant and the carpenter is the longest.,angry,16,C:/Emotion Speech Dataset/0016/Angry/0016_000453.wav
+0016_000915,He likes dragons very much.,happy,16,C:/Emotion Speech Dataset/0016/Happy/0016_000915.wav
+0016_000822,Am I an absolute pauper?,happy,16,C:/Emotion Speech Dataset/0016/Happy/0016_000822.wav
+0016_001050,Do you have anything in mind?,happy,16,C:/Emotion Speech Dataset/0016/Happy/0016_001050.wav
+0016_000721,As rich-as Peter's son in law!,happy,16,C:/Emotion Speech Dataset/0016/Happy/0016_000721.wav
+0016_000889,When such wanderers meet.,happy,16,C:/Emotion Speech Dataset/0016/Happy/0016_000889.wav
+0016_000772,"How are you, dear child?",happy,16,C:/Emotion Speech Dataset/0016/Happy/0016_000772.wav
+0016_000807,Tom and Michael woke up next morning.,happy,16,C:/Emotion Speech Dataset/0016/Happy/0016_000807.wav
+0016_000971,I say I will be emperor.,happy,16,C:/Emotion Speech Dataset/0016/Happy/0016_000971.wav
+0016_001049,What do you think of this question?,happy,16,C:/Emotion Speech Dataset/0016/Happy/0016_001049.wav
+0016_000803,The elephant and the carpenter is the longest.,happy,16,C:/Emotion Speech Dataset/0016/Happy/0016_000803.wav
+0016_000215,He likes dragons very much.,neutral,16,C:/Emotion Speech Dataset/0016/Neutral/0016_000215.wav
+0016_000122,Am I an absolute pauper?,neutral,16,C:/Emotion Speech Dataset/0016/Neutral/0016_000122.wav
+0016_000350,Do you have anything in mind?,neutral,16,C:/Emotion Speech Dataset/0016/Neutral/0016_000350.wav
+0016_000021,As rich-as Peter's son in law!,neutral,16,C:/Emotion Speech Dataset/0016/Neutral/0016_000021.wav
+0016_000189,When such wanderers meet.,neutral,16,C:/Emotion Speech Dataset/0016/Neutral/0016_000189.wav
+0016_000072,"How are you, dear child?",neutral,16,C:/Emotion Speech Dataset/0016/Neutral/0016_000072.wav
+0016_000107,Tom and Michael woke up next morning.,neutral,16,C:/Emotion Speech Dataset/0016/Neutral/0016_000107.wav
+0016_000271,I say I will be emperor.,neutral,16,C:/Emotion Speech Dataset/0016/Neutral/0016_000271.wav
+0016_000349,What do you think of this question?,neutral,16,C:/Emotion Speech Dataset/0016/Neutral/0016_000349.wav
+0016_000103,The elephant and the carpenter is the longest.,neutral,16,C:/Emotion Speech Dataset/0016/Neutral/0016_000103.wav
+0016_001265,He likes dragons very much.,sad,16,C:/Emotion Speech Dataset/0016/Sad/0016_001265.wav
+0016_001172,Am I an absolute pauper?,sad,16,C:/Emotion Speech Dataset/0016/Sad/0016_001172.wav
+0016_001400,Do you have anything in mind?,sad,16,C:/Emotion Speech Dataset/0016/Sad/0016_001400.wav
+0016_001071,As rich as Peter's son in law!,sad,16,C:/Emotion Speech Dataset/0016/Sad/0016_001071.wav
+0016_001239,When such wanderers meet.,sad,16,C:/Emotion Speech Dataset/0016/Sad/0016_001239.wav
+0016_001122,"How are you, dear child?",sad,16,C:/Emotion Speech Dataset/0016/Sad/0016_001122.wav
+0016_001157,Tom and Michael woke up next morning.,sad,16,C:/Emotion Speech Dataset/0016/Sad/0016_001157.wav
+0016_001321,I say I will be emperor.,sad,16,C:/Emotion Speech Dataset/0016/Sad/0016_001321.wav
+0016_001399,What do you think of this question?,sad,16,C:/Emotion Speech Dataset/0016/Sad/0016_001399.wav
+0016_001153,The elephant and the carpenter is the longest.,sad,16,C:/Emotion Speech Dataset/0016/Sad/0016_001153.wav
+0016_001615,He likes dragons very much.,surprise,16,C:/Emotion Speech Dataset/0016/Surprise/0016_001615.wav
+0016_001522,Am I an absolute pauper?,surprise,16,C:/Emotion Speech Dataset/0016/Surprise/0016_001522.wav
+0016_001750,Do you have anything in mind?,surprise,16,C:/Emotion Speech Dataset/0016/Surprise/0016_001750.wav
+0016_001421,As rich-as Peter's son in law!,surprise,16,C:/Emotion Speech Dataset/0016/Surprise/0016_001421.wav
+0016_001589,When such wanderers meet.,surprise,16,C:/Emotion Speech Dataset/0016/Surprise/0016_001589.wav
+0016_001472,"How are you, dear child?",surprise,16,C:/Emotion Speech Dataset/0016/Surprise/0016_001472.wav
+0016_001507,Tom and Michael woke up next morning.,surprise,16,C:/Emotion Speech Dataset/0016/Surprise/0016_001507.wav
+0016_001671,I say I will be emperor.,surprise,16,C:/Emotion Speech Dataset/0016/Surprise/0016_001671.wav
+0016_001749,What do you think of this question?,surprise,16,C:/Emotion Speech Dataset/0016/Surprise/0016_001749.wav
+0016_001503,The elephant and the carpenter is the longest.,surprise,16,C:/Emotion Speech Dataset/0016/Surprise/0016_001503.wav
+0017_000565,He likes dragons very much.,angry,17,C:/Emotion Speech Dataset/0017/Angry/0017_000565.wav
+0017_000472,Am I an absolute pauper?,angry,17,C:/Emotion Speech Dataset/0017/Angry/0017_000472.wav
+0017_000700,Do you have anything in mind?,angry,17,C:/Emotion Speech Dataset/0017/Angry/0017_000700.wav
+0017_000371,As rich as Peter's son in law!,angry,17,C:/Emotion Speech Dataset/0017/Angry/0017_000371.wav
+0017_000539,When such wanderers meet.,angry,17,C:/Emotion Speech Dataset/0017/Angry/0017_000539.wav
+0017_000422,"How are you, dear child?",angry,17,C:/Emotion Speech Dataset/0017/Angry/0017_000422.wav
+0017_000457,Tom and Michael woke up next morning.,angry,17,C:/Emotion Speech Dataset/0017/Angry/0017_000457.wav
+0017_000621,I say I will be emperor.,angry,17,C:/Emotion Speech Dataset/0017/Angry/0017_000621.wav
+0017_000699,What do you think of this question?,angry,17,C:/Emotion Speech Dataset/0017/Angry/0017_000699.wav
+0017_000453,The elephant and the carpenter is the longest.,angry,17,C:/Emotion Speech Dataset/0017/Angry/0017_000453.wav
+0017_000915,He likes dragons very much.,happy,17,C:/Emotion Speech Dataset/0017/Happy/0017_000915.wav
+0017_000822,Am I an absolute pauper?,happy,17,C:/Emotion Speech Dataset/0017/Happy/0017_000822.wav
+0017_001050,Do you have anything in mind?,happy,17,C:/Emotion Speech Dataset/0017/Happy/0017_001050.wav
+0017_000721,As rich as Peter's son in law!,happy,17,C:/Emotion Speech Dataset/0017/Happy/0017_000721.wav
+0017_000889,When such wanderers meet.,happy,17,C:/Emotion Speech Dataset/0017/Happy/0017_000889.wav
+0017_000772,"How are you, dear child?",happy,17,C:/Emotion Speech Dataset/0017/Happy/0017_000772.wav
+0017_000807,Tom and Michael woke up next morning.,happy,17,C:/Emotion Speech Dataset/0017/Happy/0017_000807.wav
+0017_000971,I say I will be emperor.,happy,17,C:/Emotion Speech Dataset/0017/Happy/0017_000971.wav
+0017_001049,What do you think of this question?,happy,17,C:/Emotion Speech Dataset/0017/Happy/0017_001049.wav
+0017_000803,The elephant and the carpenter is the longest.,happy,17,C:/Emotion Speech Dataset/0017/Happy/0017_000803.wav
+0017_000215,He likes dragons very much.,neutral,17,C:/Emotion Speech Dataset/0017/Neutral/0017_000215.wav
+0017_000122,Am I an absolute pauper?,neutral,17,C:/Emotion Speech Dataset/0017/Neutral/0017_000122.wav
+0017_000350,Do you have anything in mind?,neutral,17,C:/Emotion Speech Dataset/0017/Neutral/0017_000350.wav
+0017_000021,As rich-as Peter's son in law!,neutral,17,C:/Emotion Speech Dataset/0017/Neutral/0017_000021.wav
+0017_000189,When such wanderers meet.,neutral,17,C:/Emotion Speech Dataset/0017/Neutral/0017_000189.wav
+0017_000072,"How are you, dear child?",neutral,17,C:/Emotion Speech Dataset/0017/Neutral/0017_000072.wav
+0017_000107,Tom and Michael woke up next morning.,neutral,17,C:/Emotion Speech Dataset/0017/Neutral/0017_000107.wav
+0017_000271,I say I will be emperor.,neutral,17,C:/Emotion Speech Dataset/0017/Neutral/0017_000271.wav
+0017_000349,What do you think of this question?,neutral,17,C:/Emotion Speech Dataset/0017/Neutral/0017_000349.wav
+0017_000103,The elephant and the carpenter is the longest.,neutral,17,C:/Emotion Speech Dataset/0017/Neutral/0017_000103.wav
+0017_001265,He likes dragons very much.,sad,17,C:/Emotion Speech Dataset/0017/Sad/0017_001265.wav
+0017_001172,Am I an absolute pauper?,sad,17,C:/Emotion Speech Dataset/0017/Sad/0017_001172.wav
+0017_001400,Do you have anything in mind?,sad,17,C:/Emotion Speech Dataset/0017/Sad/0017_001400.wav
+0017_001071,As rich as Peter's son in law!,sad,17,C:/Emotion Speech Dataset/0017/Sad/0017_001071.wav
+0017_001239,When such wanderers meet.,sad,17,C:/Emotion Speech Dataset/0017/Sad/0017_001239.wav
+0017_001122,"How are you, dear child?",sad,17,C:/Emotion Speech Dataset/0017/Sad/0017_001122.wav
+0017_001157,Tom and Michael woke up next morning.,sad,17,C:/Emotion Speech Dataset/0017/Sad/0017_001157.wav
+0017_001321,I say I will be emperor.,sad,17,C:/Emotion Speech Dataset/0017/Sad/0017_001321.wav
+0017_001399,What do you think of this question?,sad,17,C:/Emotion Speech Dataset/0017/Sad/0017_001399.wav
+0017_001153,The elephant and the carpenter is the longest.,sad,17,C:/Emotion Speech Dataset/0017/Sad/0017_001153.wav
+0017_001615,He likes dragons very much.,surprise,17,C:/Emotion Speech Dataset/0017/Surprise/0017_001615.wav
+0017_001522,Am I an absolute pauper?,surprise,17,C:/Emotion Speech Dataset/0017/Surprise/0017_001522.wav
+0017_001750,Do you have anything in mind?,surprise,17,C:/Emotion Speech Dataset/0017/Surprise/0017_001750.wav
+0017_001421,As rich-as Peter's son in law!,surprise,17,C:/Emotion Speech Dataset/0017/Surprise/0017_001421.wav
+0017_001589,When such wanderers meet.,surprise,17,C:/Emotion Speech Dataset/0017/Surprise/0017_001589.wav
+0017_001472,"How are you, dear child?",surprise,17,C:/Emotion Speech Dataset/0017/Surprise/0017_001472.wav
+0017_001507,Tom and Michael woke up next morning.,surprise,17,C:/Emotion Speech Dataset/0017/Surprise/0017_001507.wav
+0017_001671,I say I will be emperor.,surprise,17,C:/Emotion Speech Dataset/0017/Surprise/0017_001671.wav
+0017_001749,What do you think of this question?,surprise,17,C:/Emotion Speech Dataset/0017/Surprise/0017_001749.wav
+0017_001503,The elephant and the carpenter is the longest.,surprise,17,C:/Emotion Speech Dataset/0017/Surprise/0017_001503.wav
+0018_000565,He likes dragons very much.,angry,18,C:/Emotion Speech Dataset/0018/Angry/0018_000565.wav
+0018_000472,Am I an absolute pauper?,angry,18,C:/Emotion Speech Dataset/0018/Angry/0018_000472.wav
+0018_000700,Do you have anything in mind?,angry,18,C:/Emotion Speech Dataset/0018/Angry/0018_000700.wav
+0018_000371,As rich as Peter's son in law!,angry,18,C:/Emotion Speech Dataset/0018/Angry/0018_000371.wav
+0018_000539,When such wanderers meet.,angry,18,C:/Emotion Speech Dataset/0018/Angry/0018_000539.wav
+0018_000422,"How are you, dear child?",angry,18,C:/Emotion Speech Dataset/0018/Angry/0018_000422.wav
+0018_000457,Tom and Michael woke up next morning.,angry,18,C:/Emotion Speech Dataset/0018/Angry/0018_000457.wav
+0018_000621,I say I will be emperor.,angry,18,C:/Emotion Speech Dataset/0018/Angry/0018_000621.wav
+0018_000699,What do you think of this question?,angry,18,C:/Emotion Speech Dataset/0018/Angry/0018_000699.wav
+0018_000453,The elephant and the carpenter is the longest.,angry,18,C:/Emotion Speech Dataset/0018/Angry/0018_000453.wav
+0018_000915,He likes dragons very much.,happy,18,C:/Emotion Speech Dataset/0018/Happy/0018_000915.wav
+0018_000822,Am I an absolute pauper?,happy,18,C:/Emotion Speech Dataset/0018/Happy/0018_000822.wav
+0018_001050,Do you have anything in mind?,happy,18,C:/Emotion Speech Dataset/0018/Happy/0018_001050.wav
+0018_000721,As rich as Peter's son in law!,happy,18,C:/Emotion Speech Dataset/0018/Happy/0018_000721.wav
+0018_000889,When such wanderers meet.,happy,18,C:/Emotion Speech Dataset/0018/Happy/0018_000889.wav
+0018_000772,"How are you, dear child?",happy,18,C:/Emotion Speech Dataset/0018/Happy/0018_000772.wav
+0018_000807,Tom and Michael woke up next morning.,happy,18,C:/Emotion Speech Dataset/0018/Happy/0018_000807.wav
+0018_000971,I say I will be emperor.,happy,18,C:/Emotion Speech Dataset/0018/Happy/0018_000971.wav
+0018_001049,What do you think of this question?,happy,18,C:/Emotion Speech Dataset/0018/Happy/0018_001049.wav
+0018_000803,The elephant and the carpenter is the longest.,happy,18,C:/Emotion Speech Dataset/0018/Happy/0018_000803.wav
+0018_000215,He likes dragons very much.,neutral,18,C:/Emotion Speech Dataset/0018/Neutral/0018_000215.wav
+0018_000122,Am I an absolute pauper?,neutral,18,C:/Emotion Speech Dataset/0018/Neutral/0018_000122.wav
+0018_000350,Do you have anything in mind?,neutral,18,C:/Emotion Speech Dataset/0018/Neutral/0018_000350.wav
+0018_000021,As rich as Peter's son in law!,neutral,18,C:/Emotion Speech Dataset/0018/Neutral/0018_000021.wav
+0018_000189,When such wanderers meet.,neutral,18,C:/Emotion Speech Dataset/0018/Neutral/0018_000189.wav
+0018_000072,"How are you, dear child?",neutral,18,C:/Emotion Speech Dataset/0018/Neutral/0018_000072.wav
+0018_000107,Tom and Michael woke up next morning.,neutral,18,C:/Emotion Speech Dataset/0018/Neutral/0018_000107.wav
+0018_000271,I say I will be emperor.,neutral,18,C:/Emotion Speech Dataset/0018/Neutral/0018_000271.wav
+0018_000349,What do you think of this question?,neutral,18,C:/Emotion Speech Dataset/0018/Neutral/0018_000349.wav
+0018_000103,The elephant and the carpenter is the longest.,neutral,18,C:/Emotion Speech Dataset/0018/Neutral/0018_000103.wav
+0018_001265,He likes dragons very much.,sad,18,C:/Emotion Speech Dataset/0018/Sad/0018_001265.wav
+0018_001172,Am I an absolute pauper?,sad,18,C:/Emotion Speech Dataset/0018/Sad/0018_001172.wav
+0018_001400,Do you have anything in mind?,sad,18,C:/Emotion Speech Dataset/0018/Sad/0018_001400.wav
+0018_001071,As rich-as Peter's son in law!,sad,18,C:/Emotion Speech Dataset/0018/Sad/0018_001071.wav
+0018_001239,When such wanderers meet.,sad,18,C:/Emotion Speech Dataset/0018/Sad/0018_001239.wav
+0018_001122,"How are you, dear child?",sad,18,C:/Emotion Speech Dataset/0018/Sad/0018_001122.wav
+0018_001157,Tom and Michael woke up next morning.,sad,18,C:/Emotion Speech Dataset/0018/Sad/0018_001157.wav
+0018_001321,I say I will be emperor.,sad,18,C:/Emotion Speech Dataset/0018/Sad/0018_001321.wav
+0018_001399,What do you think of this question?,sad,18,C:/Emotion Speech Dataset/0018/Sad/0018_001399.wav
+0018_001153,The elephant and the carpenter is the longest.,sad,18,C:/Emotion Speech Dataset/0018/Sad/0018_001153.wav
+0018_001615,He likes dragons very much.,surprise,18,C:/Emotion Speech Dataset/0018/Surprise/0018_001615.wav
+0018_001522,Am I an absolute pauper?,surprise,18,C:/Emotion Speech Dataset/0018/Surprise/0018_001522.wav
+0018_001750,Do you have anything in mind?,surprise,18,C:/Emotion Speech Dataset/0018/Surprise/0018_001750.wav
+0018_001421,As rich as Peter's son in law!,surprise,18,C:/Emotion Speech Dataset/0018/Surprise/0018_001421.wav
+0018_001589,When such wanderers meet.,surprise,18,C:/Emotion Speech Dataset/0018/Surprise/0018_001589.wav
+0018_001472,"How are you, dear child?",surprise,18,C:/Emotion Speech Dataset/0018/Surprise/0018_001472.wav
+0018_001507,Tom and Michael woke up next morning.,surprise,18,C:/Emotion Speech Dataset/0018/Surprise/0018_001507.wav
+0018_001671,I say I will be emperor.,surprise,18,C:/Emotion Speech Dataset/0018/Surprise/0018_001671.wav
+0018_001749,What do you think of this question?,surprise,18,C:/Emotion Speech Dataset/0018/Surprise/0018_001749.wav
+0018_001503,The elephant and the carpenter is the longest.,surprise,18,C:/Emotion Speech Dataset/0018/Surprise/0018_001503.wav
+0019_000565,He likes dragons very much.,angry,19,C:/Emotion Speech Dataset/0019/Angry/0019_000565.wav
+0019_000472,Am I an absolute pauper?,angry,19,C:/Emotion Speech Dataset/0019/Angry/0019_000472.wav
+0019_000700,Do you have anything in mind?,angry,19,C:/Emotion Speech Dataset/0019/Angry/0019_000700.wav
+0019_000371,As rich-as Peter's son in law!,angry,19,C:/Emotion Speech Dataset/0019/Angry/0019_000371.wav
+0019_000539,When such wanderers meet.,angry,19,C:/Emotion Speech Dataset/0019/Angry/0019_000539.wav
+0019_000422,"How are you, dear child?",angry,19,C:/Emotion Speech Dataset/0019/Angry/0019_000422.wav
+0019_000457,Tom and Michael woke up next morning.,angry,19,C:/Emotion Speech Dataset/0019/Angry/0019_000457.wav
+0019_000621,I say I will be emperor.,angry,19,C:/Emotion Speech Dataset/0019/Angry/0019_000621.wav
+0019_000699,What do you think of this question?,angry,19,C:/Emotion Speech Dataset/0019/Angry/0019_000699.wav
+0019_000453,The elephant and the carpenter is the longest.,angry,19,C:/Emotion Speech Dataset/0019/Angry/0019_000453.wav
+0019_000915,He likes dragons very much.,happy,19,C:/Emotion Speech Dataset/0019/Happy/0019_000915.wav
+0019_000822,Am I an absolute pauper?,happy,19,C:/Emotion Speech Dataset/0019/Happy/0019_000822.wav
+0019_001050,Do you have anything in mind?,happy,19,C:/Emotion Speech Dataset/0019/Happy/0019_001050.wav
+0019_000721,As rich-as Peter's son in law!,happy,19,C:/Emotion Speech Dataset/0019/Happy/0019_000721.wav
+0019_000889,When such wanderers meet.,happy,19,C:/Emotion Speech Dataset/0019/Happy/0019_000889.wav
+0019_000772,"How are you, dear child?",happy,19,C:/Emotion Speech Dataset/0019/Happy/0019_000772.wav
+0019_000807,Tom and Michael woke up next morning.,happy,19,C:/Emotion Speech Dataset/0019/Happy/0019_000807.wav
+0019_000971,I say I will be emperor.,happy,19,C:/Emotion Speech Dataset/0019/Happy/0019_000971.wav
+0019_001049,What do you think of this question?,happy,19,C:/Emotion Speech Dataset/0019/Happy/0019_001049.wav
+0019_000803,The elephant and the carpenter is the longest.,happy,19,C:/Emotion Speech Dataset/0019/Happy/0019_000803.wav
+0019_000215,He likes dragons very much.,neutral,19,C:/Emotion Speech Dataset/0019/Neutral/0019_000215.wav
+0019_000122,Am I an absolute pauper?,neutral,19,C:/Emotion Speech Dataset/0019/Neutral/0019_000122.wav
+0019_000350,Do you have anything in mind?,neutral,19,C:/Emotion Speech Dataset/0019/Neutral/0019_000350.wav
+0019_000021,As rich-as Peter's son in law!,neutral,19,C:/Emotion Speech Dataset/0019/Neutral/0019_000021.wav
+0019_000189,When such wanderers meet.,neutral,19,C:/Emotion Speech Dataset/0019/Neutral/0019_000189.wav
+0019_000072,"How are you, dear child?",neutral,19,C:/Emotion Speech Dataset/0019/Neutral/0019_000072.wav
+0019_000107,Tom and Michael woke up next morning.,neutral,19,C:/Emotion Speech Dataset/0019/Neutral/0019_000107.wav
+0019_000271,I say I will be emperor.,neutral,19,C:/Emotion Speech Dataset/0019/Neutral/0019_000271.wav
+0019_000349,What do you think of this question?,neutral,19,C:/Emotion Speech Dataset/0019/Neutral/0019_000349.wav
+0019_000103,The elephant and the carpenter is the longest.,neutral,19,C:/Emotion Speech Dataset/0019/Neutral/0019_000103.wav
+0019_001265,He likes dragons very much.,sad,19,C:/Emotion Speech Dataset/0019/Sad/0019_001265.wav
+0019_001172,Am I an absolute pauper?,sad,19,C:/Emotion Speech Dataset/0019/Sad/0019_001172.wav
+0019_001400,Do you have anything in mind?,sad,19,C:/Emotion Speech Dataset/0019/Sad/0019_001400.wav
+0019_001071,As rich-as Peter's son in law!,sad,19,C:/Emotion Speech Dataset/0019/Sad/0019_001071.wav
+0019_001239,When such wanderers meet.,sad,19,C:/Emotion Speech Dataset/0019/Sad/0019_001239.wav
+0019_001122,"How are you, dear child?",sad,19,C:/Emotion Speech Dataset/0019/Sad/0019_001122.wav
+0019_001157,Tom and Michael woke up next morning.,sad,19,C:/Emotion Speech Dataset/0019/Sad/0019_001157.wav
+0019_001321,I say I will be emperor.,sad,19,C:/Emotion Speech Dataset/0019/Sad/0019_001321.wav
+0019_001399,What do you think of this question?,sad,19,C:/Emotion Speech Dataset/0019/Sad/0019_001399.wav
+0019_001153,The elephant and the carpenter is the longest.,sad,19,C:/Emotion Speech Dataset/0019/Sad/0019_001153.wav
+0019_001615,He likes dragons very much.,surprise,19,C:/Emotion Speech Dataset/0019/Surprise/0019_001615.wav
+0019_001522,Am I an absolute pauper?,surprise,19,C:/Emotion Speech Dataset/0019/Surprise/0019_001522.wav
+0019_001750,Do you have anything in mind?,surprise,19,C:/Emotion Speech Dataset/0019/Surprise/0019_001750.wav
+0019_001421,As rich-as Peter's son in law!,surprise,19,C:/Emotion Speech Dataset/0019/Surprise/0019_001421.wav
+0019_001589,When such wanderers meet.,surprise,19,C:/Emotion Speech Dataset/0019/Surprise/0019_001589.wav
+0019_001472,"How are you, dear child?",surprise,19,C:/Emotion Speech Dataset/0019/Surprise/0019_001472.wav
+0019_001507,Tom and Michael woke up next morning.,surprise,19,C:/Emotion Speech Dataset/0019/Surprise/0019_001507.wav
+0019_001671,I say I will be emperor.,surprise,19,C:/Emotion Speech Dataset/0019/Surprise/0019_001671.wav
+0019_001749,What do you think of this question?,surprise,19,C:/Emotion Speech Dataset/0019/Surprise/0019_001749.wav
+0019_001503,The elephant and the carpenter is the longest.,surprise,19,C:/Emotion Speech Dataset/0019/Surprise/0019_001503.wav
+0020_000565,He likes dragons very much.,angry,20,C:/Emotion Speech Dataset/0020/Angry/0020_000565.wav
+0020_000472,Am I an absolute pauper?,angry,20,C:/Emotion Speech Dataset/0020/Angry/0020_000472.wav
+0020_000700,Do you have anything in mind?,angry,20,C:/Emotion Speech Dataset/0020/Angry/0020_000700.wav
+0020_000371,As rich as Peter's son in law!,angry,20,C:/Emotion Speech Dataset/0020/Angry/0020_000371.wav
+0020_000539,When such wanderers meet.,angry,20,C:/Emotion Speech Dataset/0020/Angry/0020_000539.wav
+0020_000422,"How are you, dear child?",angry,20,C:/Emotion Speech Dataset/0020/Angry/0020_000422.wav
+0020_000457,Tom and Michael woke up next morning.,angry,20,C:/Emotion Speech Dataset/0020/Angry/0020_000457.wav
+0020_000621,I say I will be emperor.,angry,20,C:/Emotion Speech Dataset/0020/Angry/0020_000621.wav
+0020_000699,What do you think of this question?,angry,20,C:/Emotion Speech Dataset/0020/Angry/0020_000699.wav
+0020_000453,The elephant and the carpenter is the longest.,angry,20,C:/Emotion Speech Dataset/0020/Angry/0020_000453.wav
+0020_000915,He likes dragons very much.,happy,20,C:/Emotion Speech Dataset/0020/Happy/0020_000915.wav
+0020_000822,Am I an absolute pauper?,happy,20,C:/Emotion Speech Dataset/0020/Happy/0020_000822.wav
+0020_001050,Do you have anything in mind?,happy,20,C:/Emotion Speech Dataset/0020/Happy/0020_001050.wav
+0020_000721,As rich as Peter's son in law!,happy,20,C:/Emotion Speech Dataset/0020/Happy/0020_000721.wav
+0020_000889,When such wanderers meet.,happy,20,C:/Emotion Speech Dataset/0020/Happy/0020_000889.wav
+0020_000772,"How are you, dear child?",happy,20,C:/Emotion Speech Dataset/0020/Happy/0020_000772.wav
+0020_000807,Tom and Michael woke up next morning.,happy,20,C:/Emotion Speech Dataset/0020/Happy/0020_000807.wav
+0020_000971,I say I will be emperor.,happy,20,C:/Emotion Speech Dataset/0020/Happy/0020_000971.wav
+0020_001049,What do you think of this question?,happy,20,C:/Emotion Speech Dataset/0020/Happy/0020_001049.wav
+0020_000803,The elephant and the carpenter is the longest.,happy,20,C:/Emotion Speech Dataset/0020/Happy/0020_000803.wav
+0020_000215,He likes dragons very much.,neutral,20,C:/Emotion Speech Dataset/0020/Neutral/0020_000215.wav
+0020_000122,Am I an absolute pauper?,neutral,20,C:/Emotion Speech Dataset/0020/Neutral/0020_000122.wav
+0020_000350,Do you have anything in mind?,neutral,20,C:/Emotion Speech Dataset/0020/Neutral/0020_000350.wav
+0020_000021,As rich as Peter's son in law!,neutral,20,C:/Emotion Speech Dataset/0020/Neutral/0020_000021.wav
+0020_000189,When such wanderers meet.,neutral,20,C:/Emotion Speech Dataset/0020/Neutral/0020_000189.wav
+0020_000072,"How are you, dear child?",neutral,20,C:/Emotion Speech Dataset/0020/Neutral/0020_000072.wav
+0020_000107,Tom and Michael woke up next morning.,neutral,20,C:/Emotion Speech Dataset/0020/Neutral/0020_000107.wav
+0020_000271,I say I will be emperor.,neutral,20,C:/Emotion Speech Dataset/0020/Neutral/0020_000271.wav
+0020_000349,What do you think of this question?,neutral,20,C:/Emotion Speech Dataset/0020/Neutral/0020_000349.wav
+0020_000103,The elephant and the carpenter is the longest.,neutral,20,C:/Emotion Speech Dataset/0020/Neutral/0020_000103.wav
+0020_001265,He likes dragons very much.,sad,20,C:/Emotion Speech Dataset/0020/Sad/0020_001265.wav
+0020_001172,Am I an absolute pauper?,sad,20,C:/Emotion Speech Dataset/0020/Sad/0020_001172.wav
+0020_001400,Do you have anything in mind?,sad,20,C:/Emotion Speech Dataset/0020/Sad/0020_001400.wav
+0020_001071,As rich as Peter's son in law!,sad,20,C:/Emotion Speech Dataset/0020/Sad/0020_001071.wav
+0020_001239,When such wanderers meet.,sad,20,C:/Emotion Speech Dataset/0020/Sad/0020_001239.wav
+0020_001122,"How are you, dear child?",sad,20,C:/Emotion Speech Dataset/0020/Sad/0020_001122.wav
+0020_001157,Tom and Michael woke up next morning.,sad,20,C:/Emotion Speech Dataset/0020/Sad/0020_001157.wav
+0020_001321,I say I will be emperor.,sad,20,C:/Emotion Speech Dataset/0020/Sad/0020_001321.wav
+0020_001399,What do you think of this question?,sad,20,C:/Emotion Speech Dataset/0020/Sad/0020_001399.wav
+0020_001153,The elephant and the carpenter is the longest.,sad,20,C:/Emotion Speech Dataset/0020/Sad/0020_001153.wav
+0020_001615,He likes dragons very much.,surprise,20,C:/Emotion Speech Dataset/0020/Surprise/0020_001615.wav
+0020_001522,Am I an absolute pauper?,surprise,20,C:/Emotion Speech Dataset/0020/Surprise/0020_001522.wav
+0020_001750,Do you have anything in mind?,surprise,20,C:/Emotion Speech Dataset/0020/Surprise/0020_001750.wav
+0020_001421,As rich as Peter's son in law!,surprise,20,C:/Emotion Speech Dataset/0020/Surprise/0020_001421.wav
+0020_001589,When such wanderers meet.,surprise,20,C:/Emotion Speech Dataset/0020/Surprise/0020_001589.wav
+0020_001472,"How are you, dear child?",surprise,20,C:/Emotion Speech Dataset/0020/Surprise/0020_001472.wav
+0020_001507,Tom and Michael woke up next morning.,surprise,20,C:/Emotion Speech Dataset/0020/Surprise/0020_001507.wav
+0020_001671,I say I will be emperor.,surprise,20,C:/Emotion Speech Dataset/0020/Surprise/0020_001671.wav
+0020_001749,What do you think of this question?,surprise,20,C:/Emotion Speech Dataset/0020/Surprise/0020_001749.wav
+0020_001503,The elephant and the carpenter is the longest.,surprise,20,C:/Emotion Speech Dataset/0020/Surprise/0020_001503.wav
