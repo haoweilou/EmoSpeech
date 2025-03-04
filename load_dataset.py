@@ -41,10 +41,8 @@ for en_speaker in en_speakers:
     data["speaker"] = en_speaker
     data["file_path"] = f"{speaker_dir}" + data["emotion"].apply(lambda x:x.capitalize()) + "/" + data['file_name'] + ".wav"
     for item in data["file_path"]:
-        # print(item)
         assert os.path.exists(item)
     all_data.append(data)
 
 final_df = pd.concat(all_data, ignore_index=True)
 final_df.to_csv("esd.csv",sep="\t",index=None)
-# print(ch_speakers,en_speakers)
