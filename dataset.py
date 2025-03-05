@@ -10,13 +10,13 @@ def load_wav_to_torch(filename):
     return waveform, sampling_rate
 
 emo_dict = {"neutral":0,"angry":1,"happy":2,"sad":3,"surprise":4}
-
+lang_dict = {"ch":0,"en":1}
 class ESD(torch.utils.data.Dataset):
     def __init__(self, csv_path,sample_rate=16000, n_mels=80):
         super(ESD, self).__init__()
         self.data = pd.read_csv(csv_path)
-        # self.data["file_path"] = self.data["file_path"].apply(lambda x: x.replace("C:/","D:/"))
-        self.data["file_path"] = self.data["file_path"].apply(lambda x: x.replace("C:/","/share/scratch/haoweilou/"))
+        self.data["file_path"] = self.data["file_path"].apply(lambda x: x.replace("C:/","D:/"))
+        # self.data["file_path"] = self.data["file_path"].apply(lambda x: x.replace("C:/","/share/scratch/haoweilou/"))
         # print(self.data)
         self.sample_rate = sample_rate
 

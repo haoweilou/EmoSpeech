@@ -1,29 +1,14 @@
-from model import EmotionCNNLSTM
+from model import EmotionCNNLSTM,EmotionCNN
 import torch
 import torch.nn as nn
 from dataset import ESD
 from torch.utils.data import DataLoader
 import torch.optim as optim
 import pandas as pd 
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-
-
-def collate_fn(batch):
-    mel_spec,emotion,speaker_id,language = zip(*batch)
-
-    # Get maximum time length in batch
-    max_len = max([mel.shape[-1] for mel in mel_spec])  # b, n_mels, times
-    # Zero-pad Mel spectrograms
-    padded_melspecs = torch.zeros(len(batch), mel_spec[0].shape[1], max_len)  # (batch, n_mels, times)
-
-    for i, mel in enumerate(mel_spec):
-        padded_melspecs[i, : , :mel.shape[-1]] = mel
-    
-    speaker_id = torch.tensor(speaker_id, dtype=torch.long)
-    emotion = torch.tensor(emotion, dtype=torch.long)
-    padded_melspecs = torch.unsqueeze(padded_melspecs,1)
-    return padded_melspecs, emotion,speaker_id,language
+from utils import collate_fn
 from tqdm import tqdm
+
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 
 def train(model, train_loader, criterion, optimizer, device, epoch=0):
@@ -65,7 +50,8 @@ def evaluate(model, test_loader, criterion, device):
 train_dataset = ESD("train_set.csv")
 test_dataset = ESD("test_set.csv")
 
-model = EmotionCNNLSTM(5).to(device)
+# model = EmotionCNNLSTM(5).to(device)
+model = EmotionCNN(5).to(device)
 optimizer = optim.Adam(model.parameters(), lr=0.001)
 
 batch_size = 256
@@ -82,8 +68,8 @@ for epoch in range(epochs):
     if epoch % 10 == 0:
         val_loss,acc = evaluate(model,testloader,criterion,device)
     if epoch % 50 == 0:
-        torch.save(model.state_dict(), f"./model/CNNLSTM{epoch}.pth")
+        torch.save(model.state_dict(), f"./model/CNN{epoch}.pth")
 
     new_row = pd.DataFrame([[epoch, train_loss, val_loss, acc]], columns=df.columns)
     df = pd.concat([df, new_row], ignore_index=True)
-    df.to_csv("train_log.csv", index=False)
+    df.to_csv("train_log_cnn.csv", index=False)

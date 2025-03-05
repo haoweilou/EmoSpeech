@@ -50,3 +50,36 @@ class EmotionCNNLSTM(nn.Module):
         # Classification
         x = self.fc(x)
         return x
+    
+
+class EmotionCNN(nn.Module):
+    def __init__(self, num_classes=5, cnn_out_dim=128):
+        super(EmotionCNN, self).__init__()
+        
+        # CNN Feature Extractor
+        self.cnn = nn.Sequential(
+            nn.Conv2d(1, 32, kernel_size=3, stride=1, padding=1),
+            nn.ReLU(),
+            nn.MaxPool2d(kernel_size=2, stride=2),
+            
+            nn.Conv2d(32, 64, kernel_size=3, stride=1, padding=1),
+            nn.ReLU(),
+            nn.MaxPool2d(kernel_size=2, stride=2),
+            
+            nn.Conv2d(64, cnn_out_dim, kernel_size=3, stride=1, padding=1),
+            nn.ReLU(),
+            nn.AdaptiveAvgPool2d((1, 1))  # Global pooling for feature compression
+        )
+        
+        # Fully Connected Layers for Classification
+        self.fc = nn.Sequential(
+            nn.Linear(cnn_out_dim, 64),
+            nn.ReLU(),
+            nn.Linear(64, num_classes)
+        )
+    
+    def forward(self, x):
+        x = self.cnn(x)  # Extract features using CNN
+        x = x.view(x.size(0), -1)  # Flatten for the fully connected layer
+        x = self.fc(x)  # Classification
+        return x
