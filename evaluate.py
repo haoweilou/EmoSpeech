@@ -7,7 +7,7 @@ from utils import collate_fn
 
 
 from dataset import ESD
-from model import EmotionCNNLSTM
+from model import EmotionCNNLSTM,EmotionCNN
 
 def evaluate(model, test_loader, criterion, device):
     val_loss = 0
@@ -71,8 +71,10 @@ def evaluate(model, test_loader, criterion, device):
 device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
 test_dataset = ESD("test_set.csv")
 
-model = EmotionCNNLSTM(5).to(device)
-model.load_state_dict(torch.load("./model/CNNLSTM1600.pth"))
+# model = EmotionCNNLSTM(5).to(device)
+# model.load_state_dict(torch.load("./model/CNNLSTM1600.pth"))
+model = EmotionCNN(5).to(device)
+model.load_state_dict(torch.load("./model/CNN2000.pth"))
 batch_size = 32
 testloader = DataLoader(test_dataset, batch_size=batch_size, shuffle=False, collate_fn=collate_fn)
 criterion = nn.CrossEntropyLoss()
