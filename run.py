@@ -22,4 +22,6 @@ emotion = torch.tensor([[1,0,0,0,0],[1,0.5,0,0.5,0]]).cuda().long()
 spectrogram = torch.randn(2,513,50).cuda()
 spectrogram_len = torch.tensor([50,45]).cuda()
 speaker_id = torch.tensor([0,1]).cuda().long()
-output = model(phone,style,phone_len,spectrogram,spectrogram_len,speaker_id,emotion)
+y_hat, l_length, attn, ids_slice, x_mask, z_mask,\
+      (z, z_p, m_p, logs_p, m_q, logs_q) = model(phone,style,phone_len,spectrogram,spectrogram_len,speaker_id,emotion)
+print(y_hat.shape)
