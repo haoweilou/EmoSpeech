@@ -8,7 +8,7 @@ import torch.utils.data
 from tts import commons 
 from tts.mel_processing import spectrogram_torch
 from utils import load_wav_to_torch, load_filepaths_and_text
-from text import text_to_sequence, cleaned_text_to_sequence
+from tts.text import text_to_sequence, cleaned_text_to_sequence
 
 
 class TextAudioLoader(torch.utils.data.Dataset):
@@ -237,3 +237,18 @@ class TextAudioSpeakerLoader(torch.utils.data.Dataset):
 
     def __len__(self):
         return len(self.audiopaths_sid_text)
+    
+import pandas as pd
+
+class TextStyleDataset(torch.utils.data.Dataset):
+    """
+        1) loads audio, speaker_id, phoneme, tone, emotion
+        2) computes spectrograms from audio files.
+    """
+    def __init__(self, data_path, hparams):
+        self.meta_data = pd.read_csv(data_path,sep="\t")
+        self.max_wav_value = hparams.max_wav_value
+        self.sampling_rate = hparams.sampling_rate
+        self.filter_length  = hparams.filter_length
+        self.hop_length     = hparams.hop_length
+        self.win_length     = hparams.win_length

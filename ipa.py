@@ -73,7 +73,6 @@ def normalize_sentence(sentence):
             output.append([word])
         else: 
             output.append(split_into_words(word,pronouncing_dict))
-    # output = " ".join(output)
     return output
     
 def normalize_sentence_with_seg(sentence):
@@ -119,6 +118,33 @@ def english_to_alphabet(sentence:str):
         stresses.append(0)
     return alphabet_phonemes, stresses
 
+
+import unicodedata
+def english_to_ipa(sentence:str):
+    #in the ljspeech dataset there are some non-ascii characters, such as â, they are mapped to a in the cmu dictionary
+    normalized = unicodedata.normalize('NFKD', sentence)
+    sentence = ''.join([c for c in normalized if not unicodedata.combining(c)])
+    sentence = normalize_sentence(sentence)
+    ipa_phonemes = ["START"]
+    stresses = [0]
+    for word in sentence:
+        stress = []
+        word_phoneme = []
+        for subword in word:
+            if subword in symbols:
+                ipa = ["|"] #symbol indicate segmentation
+                s = [0]
+            else: 
+                ipa, s = word_to_ipa(subword)
+            word_phoneme += ipa
+            stress += s
+
+        ipa_phonemes += word_phoneme
+        stresses += stress
+        # ipa_phonemes.append("|")
+        # stresses.append(0)
+    ipa_phonemes[-1] = "END"
+    return ipa_phonemes, stresses
 
 def english_segmented_to_ipa(sentence):
     sentence = normalize_sentence_with_seg(sentence)
@@ -439,8 +465,6 @@ def chinese_symbol_style_to_ipa(ch_sentence):
     assert len(ipa_phonemes) == len(tones) and len(forward_styles) == len(backward_styles) and len(ipa_phonemes) == len(forward_styles)
     assert len(backward_styles) == len(forward_styles) and len(backward_styles) == len(ipa_phonemes)
     return ipa_phonemes, tones, forward_styles, backward_styles, forward_scales, backward_scales
-
-
     
 def mandarin_chinese_to_ipa(sentence):
     pinyin_sentence = hanzi_to_pinyin(sentence)

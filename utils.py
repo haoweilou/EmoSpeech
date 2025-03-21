@@ -1,6 +1,13 @@
 import os
 import argparse
 import json
+import os
+import argparse
+import json
+import numpy as np
+from scipy.io.wavfile import read
+import torch
+
 def model_size(model):
     return sum(p.numel() for p in model.parameters() if p.requires_grad)
 
@@ -64,3 +71,12 @@ def get_hparams(init=True):
   hparams = HParams(**config)
   hparams.model_dir = model_dir
   return hparams
+
+def load_wav_to_torch(full_path):
+  sampling_rate, data = read(full_path)
+  return torch.FloatTensor(data.astype(np.float32)), sampling_rate
+
+def load_filepaths_and_text(filename, split="|"):
+  with open(filename, encoding='utf-8') as f:
+    filepaths_and_text = [line.strip().split(split) for line in f]
+  return filepaths_and_text
