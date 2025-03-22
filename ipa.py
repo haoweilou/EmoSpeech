@@ -357,8 +357,8 @@ def pinyin_sentence_to_ipa(pinyin_sentence):
     tones = [0]
     for pinyin in pinyin_sentence:
         ipa_phoneme, tone = pinyin_to_ipa_phoneme(pinyin)
-        ipa_phoneme.append("|")
-        tone.append(0)
+        # ipa_phoneme.append("|")
+        # tone.append(0)
         ipa_phonemes += ipa_phoneme
         tones += tone
     ipa_phonemes[-1] = "END"
@@ -400,6 +400,7 @@ def segment_symbol_pinyin_sentence_to_ipa(pinyin_sentence):
             ipa_phoneme, tone = pinyin_to_ipa_phoneme(pinyin)
             ipa_phonemes += ipa_phoneme
             tones += tone
+
     ipa_phonemes.append("END")
     tones.append(0)
 
@@ -566,3 +567,25 @@ ipa_style_symbol_dict = {k:i for i,k  in enumerate(style_symbols)}
 
 all_alpha_phoneme = [a for a in string.ascii_lowercase] + [" "]
 alpha_dict = {k:i for i,k in enumerate(all_alpha_phoneme)}
+
+new_symbols = ["――","”",'“']
+def chinese_to_ipa(sentence):
+    global symbols
+    pinyin_sentence = hanzi_to_pinyin(sentence)
+    ipa_phonemes = ["START"]
+    tones = [0]
+    for pinyin in pinyin_sentence:
+        if pinyin == " " or pinyin in symbols + new_symbols:
+            ipa_phonemes.append("|")
+            tones.append(0)
+        else: 
+            ipa_phoneme, tone = pinyin_to_ipa_phoneme(pinyin)
+            if None not in ipa_phoneme: 
+                ipa_phonemes += ipa_phoneme
+                tones += tone
+    if ipa_phonemes[-1] == "|":
+        ipa_phonemes[-1] = "END"
+    else:
+        ipa_phonemes.append("END")
+        tones.append(0)
+    return ipa_phonemes, tones
